@@ -25,3 +25,4 @@ The goal is to create a robust scientific reasoning model capable of answering c
 For collaboration or research inquiries:  
 **Zoran Ljubić – Independent AI Researcher**  
 GitHub: https://github.com/Z9D-QAI
+---
