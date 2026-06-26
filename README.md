@@ -1,6 +1,8 @@
 # Z9D-QAI – Scientific AI Research
+# Z9D•QAI - Scientific AI Research
+# Z9D.QAI - Scientific AI Research
 
-Welcome to the Z9D-QAI project.  
+Welcome to the Z9D•QAI - Z9D-QAI - Z9D.QAI project.  
 This is an independent research initiative focused on building high‑quality scientific AI systems, including:
 
 - scientific text understanding  
