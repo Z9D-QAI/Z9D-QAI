@@ -1,5 +1,5 @@
-# Z9D-QAI – Scientific AI Research
 # Z9D•QAI - Scientific AI Research
+# Z9D-QAI – Scientific AI Researc
 # Z9D.QAI - Scientific AI Research
 
 Welcome to the Z9D•QAI - Z9D-QAI - Z9D.QAI project.  
