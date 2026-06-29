@@ -28,3 +28,5 @@ For collaboration or research inquiries:
 **Zoran Ljubić – Independent AI Researcher**  
 GitHub: https://github.com/Z9D-QAI
 ---
+## 📥 Download Z9D-CSS v5.0 FREE
+[Hier herunterladen](https://github.com/Z9D-QAI/Z9D-QAI-CSS-Cyber-Secure-Service/blob/main/Z9D-CSS-v5.0-FREE.exe)
