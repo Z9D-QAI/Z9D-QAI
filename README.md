@@ -40,3 +40,72 @@ Keine Installation, keine Konfiguration – einfach starten und geschützt sein.
 
 📥 Download (Free Edition):  
 https://github.com/Z9D-QAI/Z9D-QAI-CSS-Cyber-Secure-Service/blob/main/Z9D-CSS-v5.0-FREE.exe
+----------------------------------------------------------------------------------------------
+
+Z9D‑CSS v5.0 FULL – Auto‑Block, Quarantäne, Lizenz‑Verifikation & erweiterte Netzwerk‑Analyse.  
+Automatische Abwehr verdächtiger Prozesse und Remote‑IPs, Quarantäne‑Modul, Geräte‑Lizenzbindung, Incident‑Reports und Deep‑Monitoring.
+Die Vollversion reagiert selbstständig auf Bedrohungen — ohne Benutzerinteraktion.
+
+Neue Features der Z9D‑CSS v5.0 FULL / PRO Version
+1. Auto‑BLOCK Engine (vollautomatische Abwehr)
+Automatisches Blockieren verdächtiger Remote‑IPs
+Sofortiges Beenden gefährlicher Prozesse
+Live‑Reaktion auf Anomalien ohne Benutzerinteraktion
+Schutz auch bei hoher Systemlast
+2. Lizenz‑Verifikation & Aktivierung
+Geräte‑ID‑Bindung
+Online‑Lizenzprüfung
+Aktivierungsstatus & Schutzlevel
+Block‑Funktionen erst nach erfolgreicher Aktivierung freigeschaltet
+3. Quarantäne‑Modul
+Isolation verdächtiger Dateien
+Sperren von ausführbaren Prozessen
+Schutz vor Re‑Ausführung
+4. Polizei‑Meldung / Incident‑Report
+Automatische Erstellung eines lokalen Vorfallsberichts
+Sammeln relevanter Daten (IP, Prozess, Zeitstempel)
+Optionale Weiterleitung an Behörden (lokal, nicht online)
+5. Erweiterte Netzwerk‑Analyse
+Erkennung von Cloud‑Infrastrukturen (Azure, AWS, Google Cloud)
+Markierung „Foreign Client“ bei unbekannten Hosts
+Port‑Scan‑Erkennung
+Deep‑State‑Analyse für TCP‑Verbindungen
+6. Erweiterte Prozess‑Kontrolle
+Kill‑Process mit Prioritäts‑Override
+Schutz vor Re‑Spawn
+Erkennung versteckter Prozesse
+Analyse von Handle‑Anomalien
+7. System‑Integritäts‑Check
+Prüfung kritischer Windows‑Komponenten
+Erkennung manipulierter Dienste
+Warnung bei Registry‑Anomalien
+8. Premium‑Support & Fehlerdiagnose
+Direkte Fehleranalyse über Support‑Modul
+Automatische Log‑Sammlung
+Schnellere Diagnose bei Script‑Problemen
+9. Malware‑Erkennung (Ransomware, Würmer, Viren, Trojaner)
+Erkennung typischer Ransomware‑Verhaltensmuster (Massen‑Dateiänderungen, Verschlüsselungsloops, Shadow‑Copy‑Löschung)
+Erkennung von Würmern (schnelle Prozess‑Replikation, Netzwerk‑Propagation)
+Erkennung von Viren & Trojanern (verdächtige Prozess‑Injection, DLL‑Hijacking, versteckte Netzwerkaktivität)
+Sofortige Alarmierung bei verdächtigen Dateioperationen
+Blockierung von Remote‑Hosts, die bekannte Malware‑Signaturen zeigen
+Schutz vor „File‑Locker“‑Angriffen durch Auto‑Block
+10. Verhaltenserkennung statt Signaturen
+Keine klassischen Virenscanner‑Signaturen
+KI‑gestützte Verhaltensanalyse
+Erkennung neuer, unbekannter Malware durch Anomalien
+Schutz auch gegen Zero‑Day‑Verhalten
+11. Auto‑Block bei Malware‑Aktivität
+Sofortiges Beenden des infizierten Prozesses
+Blockieren der zugehörigen IP
+Quarantäne der betroffenen Datei
+Meldung im Incident‑Report
+12. Schutz vor Remote‑Angriffen
+Erkennung verdächtiger Ports (445, 3389, 22, 23, 5900 usw.)
+Warnung bei Brute‑Force‑Mustern
+Blockierung von Botnet‑Traffic
+Markierung „Foreign Client“ bei unbekannten Hosts
+
+Z9D‑CSS v5.0 Download:  
+https://github.com/Z9D-QAI/Z9D-QAI-CSS-Cyber-Secure-Service/blob/main/Z9D-CSS-v5.0.exe
+----------------------------------------------------------------------------------------------
