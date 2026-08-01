@@ -26,7 +26,7 @@ The goal is to create a robust scientific reasoning model capable of answering c
 ## Contact
 For collaboration or research inquiries:  
 **Zoran Ljubić – Independent AI Researcher**  
-GitHub: https://github.com/Z9D-QAI 
+GitHub: https://github.com/Z9D-QAI/Z9D-QAI
 Tik_TOK: https://www.tiktok.com/@z9d.qai
 E-mail: Z9D.QAI@outlook.com - Z9D-CSS@outlook.com
 
