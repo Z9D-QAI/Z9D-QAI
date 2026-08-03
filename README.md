@@ -172,6 +172,13 @@ Zahlungen werden als Spende für die Entwicklung und Wartung der Z9D‑CSS Siche
   "payment_notice": "Zahlungen gelten als freiwillige Spende zur Unterstützung der Weiterentwicklung der Z9D-CSS Sicherheitssoftware.",
   "commercial_use": false
 }
+
+# Z9D•QAI
+# Z9D-QAI Cyber Secure Service (CSS) v5.0 Vollversion PRO ohne KI-Anbindung 
+Hier finden Sie den dffiziellen und sicheren Download für das Sicherheits-Hilfsprogramm. 
+## Download
+[Z9D-CSS-v5.0.exe herunterladen](https://github.com/Z9D-QAI/Z9D-CSS-Cyber-Secure-Service/blob/main/Z9D-CSS-v5.0.exe)
+
 ----------------------------------------------------------------------------------------------------
 SRBSKI:
 Z9D‑CSS v5.0 Preuzimanje:
