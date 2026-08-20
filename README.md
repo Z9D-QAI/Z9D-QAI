@@ -775,5 +775,5 @@ Alle Fortschritte basieren ausschließlich auf:
 - unabhängiger KI‑Modell‑Entwicklung  
 - persönlicher Erfahrung in Technik, Wissenschaft und Systemarchitektur
 
-Z9D‑QAI ist damit ein Beispiel für ein vollständig **selbst getragene Deep‑Tech‑Projekt**, welches ohne externe Finanzierung entstanden ist und dennoch eine breite technische Basis bietet – von Endgeräte‑KI über Sensorfusion, Robotik‑Systeme und wissenschaftliche KI bis hin zu Sicherheits‑ und Analysemodulen.
+Z9D‑QAI ist damit ein Beispiel für ein vollständig **selbst getragenes Deep‑Tech‑Projekt**, welches ohne externe Finanzierung entstanden ist und dennoch eine breite technische Basis bietet – von Endgeräte‑KI über Sensorfusion, Robotik‑Systeme und wissenschaftliche KI bis hin zu Sicherheits‑ und Analysemodulen.
 __________________________________________________________________________________________________________________________________________________________________
