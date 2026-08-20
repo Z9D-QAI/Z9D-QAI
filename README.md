@@ -758,3 +758,22 @@ Alle Visualisierungen werden direkt durch die KI generiert:
 Der Z9D‑QAI Unified AI Control Layer ersetzt klassische Visualisierungsskripte vollständig.  
 Die KI übernimmt Erkennung, Analyse, Bewertung, Visualisierung und sicherheitsrelevante Entscheidungen autonom und in Echtzeit – für Endgeräte, Sensoren, Robotik, wissenschaftliche Systeme und medizinische Geräte.
 __________________________________________________________________________________________________________________________________________________________________
+
+# 📌 **Hinweis zur Entwicklung und Ressourcenlage**
+
+Z9D‑QAI ist ein vollständig unabhängiges Forschungs‑ und Entwicklungsprojekt von Dr.MaS.Zoran Ljubić. 
+Alle Komponenten – inklusive Hardware‑Workstations, Laptop‑Setups, Sensor‑Module, Visualisierungssysteme, KI‑Modelle, Robotik‑Integration und sämtliche Skripte – werden bislang von einer einzelnen Person aufgebaut und entwickelt.
+
+Das Projekt verfügt über **kein externes Kapital**, keine Investoren und keine institutionelle Unterstützung.  
+Alle Fortschritte basieren ausschließlich auf:
+
+- selbst zusammengestellter Hardware  
+- eigenfinanzierter Workstations und Komponenten  
+- selbst entwickelten Skripten, Tools und Modulen  
+- eigenem Wissen, Forschung und Ingenieursarbeit  
+- kontinuierlicher praktischer Experimentierung  
+- unabhängiger KI‑Modell‑Entwicklung  
+- persönlicher Erfahrung in Technik, Wissenschaft und Systemarchitektur
+
+Z9D‑QAI ist damit ein Beispiel für ein vollständig **selbst getragene Deep‑Tech‑Projekt**, welches ohne externe Finanzierung entstanden ist und dennoch eine breite technische Basis bietet – von Endgeräte‑KI über Sensorfusion, Robotik‑Systeme und wissenschaftliche KI bis hin zu Sicherheits‑ und Analysemodulen.
+__________________________________________________________________________________________________________________________________________________________________
