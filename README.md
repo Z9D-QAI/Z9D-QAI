@@ -429,7 +429,7 @@ Z9D‑QAI‑CSS = **Zero‑Day‑Abwehr auf Endgeräten**
 | **KI‑Modelle** | Cyber Language Model (CLM), Hacker Replication Model | Z9D‑Engine, Threat‑Kognition-quantum, Z9D-QAI-Phi/ONNX/HF/GGUF/-Router |
 | **Zero‑Day‑Erkennung** | KI simuliert Hacker, generiert Malware‑Varianten | Heuristik, Prozess‑Anomalien, Netzwerk‑Anomalien, AntiVirus&AntiMalware |
 | **Deployment** | Cloud‑basiert, Zero‑Integration für Legacy‑Systeme | EXE‑basiert, sofort einsatzbereit, keine Cloud |
-| **Datenquellen** | nationale Telemetrie, Regierungsdaten, kritische Infrastruktur | lokale Systemdaten, Prozesse, Netzwerkverkehr |
+| **Datenquellen** | nationale Telemetrie, Regierungsdaten, kritische Infrastruktur | lokale Systemdaten, alle Prozesse, gesamter Netzwerkverkehr |
 | **Skalierung** | ganze Staaten, Milliarden Datenpunkte | einzelne Geräte, Firmennetze, Institutionen und Regierung |
 | **Geschäftsmodell** | Regierungsverträge (300 Mio USD) | modulare Security‑Suite für Firmen, Ämter & Nutzer |
 | **Abhängigkeiten** | Cloud, nationale Rechenzentren | komplett offline, keine Telemetrie |
