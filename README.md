@@ -424,14 +424,14 @@ Z9D‑QAI‑CSS = **Zero‑Day‑Abwehr auf Endgeräten**
 
 | Kategorie | Dream Security | Z9D‑QAI‑CSS |
 |----------|----------------|-------------|
-| **Zielgruppe** | Regierungen, Geheimdienste, nationale Infrastruktur | Unternehmen, KMU, Endgeräte, private Nutzer |
+| **Zielgruppe** | Regierungen, Geheimdienste, nationale Infrastruktur | Unternehmen, KMU, Endgeräte&Server, alle Nutzer |
 | **Architektur** | Cloud‑LLM, nationale Datenräume, Hybrid‑Cloud | Lokale KI‑Engine, Offline‑EDR, Echtzeit‑Analyse |
 | **KI‑Modelle** | Cyber Language Model (CLM), Hacker Replication Model | Z9D‑Engine, Threat‑Kognition, Phi/GGUF‑Router |
 | **Zero‑Day‑Erkennung** | KI simuliert Hacker, generiert Malware‑Varianten | Heuristik, Prozess‑Anomalien, Netzwerk‑Anomalien |
 | **Deployment** | Cloud‑basiert, Zero‑Integration für Legacy‑Systeme | EXE‑basiert, sofort einsatzbereit, keine Cloud |
 | **Datenquellen** | nationale Telemetrie, Regierungsdaten, kritische Infrastruktur | lokale Systemdaten, Prozesse, Netzwerkverkehr |
-| **Skalierung** | ganze Staaten, Milliarden Datenpunkte | einzelne Geräte, Firmennetze |
-| **Geschäftsmodell** | Regierungsverträge (300 Mio USD) | modulare Security‑Suite für Firmen & Nutzer |
+| **Skalierung** | ganze Staaten, Milliarden Datenpunkte | einzelne Geräte, Firmennetze, Institutionen und Regierung |
+| **Geschäftsmodell** | Regierungsverträge (300 Mio USD) | modulare Security‑Suite für Firmen, Ämter & Nutzer |
 | **Abhängigkeiten** | Cloud, nationale Rechenzentren | komplett offline, keine Telemetrie |
 
 # ⭐ 3) CEO‑Präsentationsfolie 
