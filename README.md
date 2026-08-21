@@ -225,8 +225,8 @@ Hinweise zu lokalen KI‑Paketen
 LM Studio und Ollama können separat bereitgestellt oder vom Nutzer selbst installiert werden.  
 KoboldCpp, text-generation-webui und eigene Z9D‑KI‑Modelle koennen je nach Lizenz und Paketgroesse gemeinsam mit der v6.0 PRO_Elite Auslieferung in einem Ordner gebuendelt werden.
 
-# Z9D‑CSS v6.0 Download: Wird demnächst bereitgestellt! 
-----------------------------------------------------------------------------------------------
+# Z9D‑CSS v6.0 Download DEUTSCH: https://github.com/Z9D-QAI/Z9D-QAI-CSS-Cyber-Secure-Service/raw/refs/heads/main/Z9D-CSS-6_0-PRO_Elite-exe_DEUTSCH.zip
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 Z9D‑CSS v5.0 – Cyber‑Security & System‑Schutzdienst
 Z9D‑CSS ist ein legitimer Sicherheits‑Dienst zur Überwachung und zum Schutz von Windows‑Systemen.
 Die Software erkennt ungewöhnliche Aktivitäten, blockiert riskante Netzwerkverbindungen und meldet verdächtige Prozesse.
