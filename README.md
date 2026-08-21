@@ -225,6 +225,8 @@ Hinweise zu lokalen KI‑Paketen
 LM Studio und Ollama können separat bereitgestellt oder vom Nutzer selbst installiert werden.  
 KoboldCpp, text-generation-webui und eigene Z9D‑KI‑Modelle koennen je nach Lizenz und Paketgroesse gemeinsam mit der v6.0 PRO_Elite Auslieferung in einem Ordner gebuendelt werden.
 
+# Die Standardversionen der Z9D Cyber Secure Service v6.0 PRO_Elite Edition sind immer nativ auf Deutsch, eine Anpassung der Benutzeroberfläche (GUI) in andere Sprachen kann flexibel nur auf Kundenanfrage erfolgen.
+
 # Z9D‑CSS v6.0 Download DEUTSCH: https://github.com/Z9D-QAI/Z9D-QAI-CSS-Cyber-Secure-Service/raw/refs/heads/main/Z9D-CSS-6_0-PRO_Elite-exe_DEUTSCH.zip
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 Z9D‑CSS v5.0 – Cyber‑Security & System‑Schutzdienst
