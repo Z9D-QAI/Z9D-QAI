@@ -431,7 +431,7 @@ Das ist regulatorisch ein Killer‑Feature.
 
 ### ✔ Offline‑EDR  
 Cloud‑EDR ohne Internet = blind.  
-# Z9D‑CSS ohne Internet = voll funktionsfähig.
+# Z9D‑CSS ohne Internet = voll funktionsfähig. -> ROS Robotic Systeme!
 
 ### ✔ USB‑Enterprise‑Lizenzierung  
 Cloud‑EDR hat keine:
