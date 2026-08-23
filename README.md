@@ -108,8 +108,12 @@ Markierung „Foreign Client“ bei unbekannten Hosts
 
 Z9D‑CSS v5.0 Download:
 https://github.com/Z9D-QAI/Z9D-QAI-CSS-Cyber-Secure-Service/blob/main/Z9D-CSS-v5.0.exe
-----------------------------------------------------------------------------------------------
-Z9D‑CSS v6.0 PRO_Elite
+
+============================================================================================================================================================
+============================================================================================================================================================
+
+# Z9D‑CSS v6.0 PRO_Elite
+
 Z9D‑CSS v6.0 PRO_Elite ist die erweiterte Weiterentwicklung der v5.x Linie mit mehr Sensorik, Lizenz‑/Freischaltungslogik, Quarantäne, Incident‑Reporting und flexibler KI‑Anbindung.
 Neue Kernfunktionen in v6.0 PRO_Elite
 1. Erweiterte Sicherheitsanalyse
