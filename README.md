@@ -414,7 +414,7 @@ Suchen Sie nach dem Cyber Secure Service? Hier geht es zum Projekt:
 # **kompletna, proširena tabela** — industrijski nivo — koja uključuje *sve* što Z9D-CSS-v6.0-PRO_Elite radi, uključujući KI‑Guard, Staatshacker‑Detection i AI‑Bot‑Defense.
 
 # 🟦 **ULTIMATIVNA TABELA: Cloud‑EDR sistemi vs. Z9D‑CSS v6.0 PRO_Elite (2026)**  
-### *sa svim naprednim KI‑detekcijama koje si naveo*
+### *sa svim naprednim KI‑detekcijama*
 
 # **1. Arhitektura i obrada podataka**
 
