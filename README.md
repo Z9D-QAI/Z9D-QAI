@@ -306,7 +306,7 @@ KoboldCpp, text-generation-webui und eigene Z9D‑KI‑Modelle koennen je nach L
 | USB‑Host‑Heartbeat | ❌ | ✔ |
 | Floating‑Lizenz | ❌ | ✔ |
 | Zentrale KI auf USB‑Host | ❌ | ✔ |
-| Offline‑Lizenzprüfung | ❌ | ✔ |
+| Offline‑Lizenzprüfung | ❌ | ✔ nach online Aktivierung |
 | Schutz vor Kopieren auf fremde Geräte | ❌ | ✔ |
 
 # **7. Netzwerk‑ & Prozess‑Analyse**
