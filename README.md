@@ -307,6 +307,93 @@ Suchen Sie nach dem Cyber Secure Service? Hier geht es zum Projekt:
 # Nema maliciozne funkcije i ne sadrži destruktivne mehanizme.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+# 🟦 **TABELA: Cloud‑EDR sistemi vs. Z9D‑CSS v6.0 PRO_Elite**
+
+# **1. Arhitektura**
+
+| Kategorija | Cloud‑EDR sistemi (SentinelOne, CrowdStrike, Sophos, Dream) | Z9D‑CSS v6.0 PRO_Elite |
+|-----------|--------------------------------------------------------------|-------------------------|
+| **Glavna arhitektura** | Cloud + agent | Lokalni Windows zaštitni sistem |
+| **Zavisnost od interneta** | Visoka | Niska (offline mod) |
+| **Analiza KI** | Cloud LLM / Telemetrija | Lokalna KI + API KI + auto‑erkennung |
+| **Procesiranje podataka** | Centralizovano u cloud‑u | Direktno na uređaju |
+| **Telemetrija** | Obavezna | Nema telemetrije |
+| **Privatnost** | Podaci napuštaju uređaj | Zero‑Data‑Leak (citirano: *„lokale Echtzeitdaten, keine Cloud‑Daten“*) |
+
+# **2. Brzina reakcije**
+
+| Kategorija | Cloud‑EDR | Z9D‑CSS v6.0 PRO_Elite |
+|-----------|-----------|------------------------|
+| **Detekcija** | 2–10 sekundi (cloud round‑trip) | Milisekunde (lokalni engine) |
+| **Auto‑Block** | Zavisi od cloud‑analize | Instant Auto‑Block / Auto‑Kill |
+| **Zero‑Day heuristika** | Cloud KI | Lokalna heuristika + AI Guard |
+| **Ransomware reakcija** | Kašnjenje zbog cloud‑analize | Trenutno (citirano: *„Sofortiges Beenden des infizierten Prozesses“*) |
+
+# **3. Stabilnost i pouzdanost**
+
+| Kategorija | Cloud‑EDR | Z9D‑CSS v6.0 PRO_Elite |
+|-----------|-----------|------------------------|
+| **Zavisnost od cloud‑servera** | Visoka | Nema zavisnosti |
+| **Offline rad** | Ograničen / nemoguć | Potpuno funkcionalan |
+| **Greške zbog mreže** | Česte | Nema |
+| **Python / dodatni servisi** | Da (SentinelOne, Sophos, Dream) | Ne (citirano: *„lokale KI‑Anbindung… separate Z9D‑Engine.exe“*) |
+| **Stabilnost** | Zavisi od cloud‑latencije | Direktno WinAPI → stabilno |
+
+# **4. KI‑modul**
+
+| Kategorija | Cloud‑EDR | Z9D‑CSS v6.0 PRO_Elite |
+|-----------|-----------|------------------------|
+| **KI lokacija** | Cloud | Lokalno + API + auto‑erkennung |
+| **Auto‑prepoznavanje KI** | Ne | Da (citirano: *„AUTO‑Modus erkennt lokale KI‑Dienste automatisch“*) |
+| **Podržani KI sistemi** | Samo vendor | LM Studio, Ollama, text‑gen‑webui, KoboldCpp, OpenAI API, Azure, Anthropic, NVIDIA NIM, Z9D‑Engine |
+| **AI Guard** | Cloud‑based | Lokalni AI Guard (citirano: *„AI Guard für lokalen KI‑Missbrauch“*) |
+
+# **5. Sigurnosni moduli**
+
+| Modul | Cloud‑EDR | Z9D‑CSS v6.0 PRO_Elite |
+|-------|-----------|------------------------|
+| Procesni nadzor | Da | Da (prošireno) |
+| Mrežna analiza | Da | Deep‑State analiza + Owner‑Mapping |
+| Quarantäne | Da | Da (lokalno, bez cloud‑slanja) |
+| Incident‑Report | Cloud | Lokalni policijski report (citirano: *„lokaler Report‑Export“*) |
+| Auto‑Block | Da | Instant Auto‑Block (bez cloud‑kašnjenja) |
+| USB‑Enterprise licenca | Ne | Da (citirano: *„USB‑Host aktualisiert fortlaufend den USB‑Status / Heartbeat“*) |
+| Offline zaštita | Ograničeno | Potpuno |
+
+# **6. Privatnost i regulativa**
+
+| Kategorija | Cloud‑EDR | Z9D‑CSS v6.0 PRO_Elite |
+|-----------|-----------|------------------------|
+| **GDPR / NIS‑2 kompatibilnost** | Teško (cloud) | Lako (lokalno) |
+| **Data‑Leak rizik** | Postoji | Zero‑Data‑Leak (citirano: *„keine Cloud‑Daten“*) |
+| **Regulatorni rizik** | Visok | Minimalan |
+| **Idealno za** | Cloud‑infrastrukture | On‑Premise, univerziteti, firme, državne institucije |
+
+# 🟦 **7. Zaključak — razlika je ogromna**
+
+### **Cloud‑EDR sistemi**  
+- zavise od cloud‑a  
+- zavise od telemetrije  
+- zavise od mreže  
+- imaju kašnjenje  
+- koriste Python / sandbox / agente  
+- nisu offline  
+- nisu privatni  
+- nisu stabilni pod opterećenjem
+
+### **Z9D‑CSS v6.0 PRO_Elite**  
+- radi lokalno  
+- radi offline  
+- radi bez telemetrije  
+- radi bez cloud‑zavisnosti  
+- radi u milisekundama  
+- ima lokalnu KI + API KI + auto‑erkennung  
+- ima USB‑Enterprise licenciranje  
+- ima AI Guard  
+- ima Auto‑Block bez kašnjenja  
+- ima policijski incident‑report  
+- ima Zero‑Data‑Leak arhitekturu
+
 # Z9D-CSS-v6.0PRO_Elite je *mnogo* jači od v5.0 i ima funkcije koje **nijedan cloud‑EDR na svetu nema**, uključujući:
 
 - prepoznavanje **državnih hakera (Staatshacker)**  
