@@ -1079,6 +1079,87 @@ Z9D‑CSS ist ein absolutes Sicherheitsprodukt.
 
 Beide haben ihren Platz — aber sie sind technisch nicht gleichwertig vergleichbar.
 
+# 🟩 **Offline‑Betrieb & Zero‑Telemetry – Unterschied zu klassischen Tools wie Wireshark**
+
+> **Z9D‑CSS arbeitet nach der Aktivierung vollständig lokal und offline.  
+> Die KI‑Heuristik, Verhaltensanalyse und Auto‑Block/Auto‑Kill‑Mechanismen funktionieren ohne Internetverbindung.  
+> Dies unterscheidet das System grundlegend von klassischen Analysewerkzeugen wie Wireshark und von Cloud‑EDR‑Produkten.**
+
+## 1. **Offline‑Fähigkeit nach der Aktivierung**
+
+Nach der einmaligen Lizenzprüfung (Geräte‑ID‑Bindung) läuft Z9D‑CSS:
+
+- vollständig lokal  
+- ohne Cloud‑Abhängigkeit  
+- ohne Telemetrie  
+- ohne externe Server  
+
+Die KI‑EDR‑Funktionen (Auto‑Block, Auto‑Kill, KI‑Guard, Heuristik) arbeiten **autark**, auch in:
+
+- isolierten Netzsegmenten  
+- kritischen Infrastrukturen  
+- Finanz‑ und Börsensystemen  
+- Telekom‑Core‑Netzen  
+- Robotik‑Einheiten  
+- Industrie‑Steuerungen  
+
+Cloud‑EDR‑Systeme benötigen dagegen **dauerhafte Internetverbindungen**, um:
+
+- Telemetrie zu senden  
+- Regeln zu aktualisieren  
+- Bedrohungen zu klassifizieren  
+- Entscheidungen aus der Cloud zu erhalten  
+
+Z9D‑CSS benötigt das **nicht**.
+
+## 2. **Zero‑Telemetry im laufenden Betrieb**
+
+# Nach der Aktivierung sendet Z9D‑CSS **keine**:
+- Prozesslisten  
+- Netzwerkmetriken  
+- Dateisamples  
+- KI‑Parameter  
+- Systeminformationen
+- 
+an externe Server.
+
+Das ist ein entscheidender Unterschied zu:
+
+### ✔ Cloud‑EDR  
+→ kontinuierliche Telemetrie  
+→ permanente Datenübertragung  
+→ externe Klassifizierung
+
+### ✔ Wireshark  
+→ kann im Hintergrund OUI‑Abfragen durchführen  
+→ kann Update‑Checks auslösen  
+→ ist ohne manuelle Härtung **nicht vollständig air‑gapped**
+
+Z9D‑CSS ist **ab Werk air‑gap‑fähig**.
+
+## 3. **Spezielle Offline‑Editionen (keine Online‑Aktivierung)**
+
+Für Systeme, die **niemals online gehen dürfen**, existieren spezielle Offline‑Robotik‑Editionen:
+
+- Aktivierung rein manuell  
+- Lizenzschlüssel offline eingepflegt  
+- Bindung an Hardware‑ID (Gerätenummer)  
+- keinerlei Online‑Verifikation  
+- ideal für Forschung, autonome Robotik, Industrie‑Steuerungen, militärische Air‑Gap‑Netze
+
+Damit ist Z9D‑CSS auch in Umgebungen einsetzbar, in denen **selbst eine einmalige Internetverbindung verboten ist**.
+
+## 🟩 **Zusammenfassung (README‑geeignet)**
+
+> **Wireshark bleibt ein passives Diagnosewerkzeug – auch offline.  
+> Es zeigt Daten an, schützt aber nicht.  
+>  
+> Z9D‑CSS ist nach der Aktivierung ein aktiver, autarker KI‑EDR‑Schutzdienst.  
+> Es erkennt, bewertet und blockiert Bedrohungen vollständig offline und ohne Telemetrie.  
+>  
+> Der funktionale Unterschied ist grundlegend:  
+> Wireshark analysiert – Z9D‑CSS schützt.**
+
 **************************************************************************************
 
 # Persönliches Statement des Entwicklers: 
