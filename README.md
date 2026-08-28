@@ -37,69 +37,68 @@ Robotik‑Integration (ROS, Sensorfusion, Aktionsmodelle) folgt später, sobald 
 Reasoning Layer - 
 Der Reasoning‑Layer bildet die logische und analytische Denkstruktur der Z9D‑QAGI‑Modelle.
 Er umfasst:
-Schritt‑für‑Schritt‑Analyse
-logische Ketten
-interne Fehlererkennung
-Selbstkorrektur
-strukturierte Problemlösung
-HQM‑Reasoning‑Mechanismen
-
+- Schritt‑für‑Schritt‑Analyse
+- logische Ketten
+- interne Fehlererkennung
+- Selbstkorrektur
+- strukturierte Problemlösung
+- HQM‑Reasoning‑Mechanismen
 Dieser Layer wird über LoRA‑Feintuning und Z9D‑Master‑Datasets optimiert.
-Cognition Module
+*Cognition Module*
 Die Cognition‑Module definieren die inneren Denkprozesse des Modells:
-interne Marker
-Prioritätslogik
-Kontext‑Verankerung
-Entscheidungsheuristiken
-Selbstreflexion
-Quantum‑inspirierte Strukturierung (klassisch implementiert)
+- interne Marker
+- Prioritätslogik
+- Kontext‑Verankerung
+- Entscheidungsheuristiken
+- Selbstreflexion
+- Quantum‑inspirierte Strukturierung (klassisch implementiert)
 Diese Module bilden die Grundlage für AGI‑ähnliches Verhalten in kompakten Modellen.
-Memory System
+*Memory System*
 Das Z9D‑Memory‑System ermöglicht:
-Langzeit‑Kontext
-stabile Identität
-modulare Wissensspeicher
-interne Zustandsrepräsentationen
+- Langzeit‑Kontext
+- stabile Identität
+- modulare Wissensspeicher
+- interne Zustandsrepräsentationen
 Es dient der persistenten Kontextverarbeitung und dem Aufbau kohärenter Denkstrukturen.
 Training Pipeline
 Aktuell werden ausschließlich QAGI‑Modelle trainiert:
-Z9D‑Phi‑Modelle
-Z9D‑HQM‑Modelle
-Z9D‑QAGI‑Mini‑AGI
-multimodale Reasoning‑Modelle
+- Z9D‑Phi‑Modelle
+- Z9D‑HQM‑Modelle
+- Z9D‑QAGI‑Mini‑AGI
+- multimodale Reasoning‑Modelle
 Training umfasst:
-LoRA‑Feintuning
-strukturiertes Reasoning‑Training
-multimodale Text‑/Bild‑Daten
-HQM‑Cognition‑Datasets
-Z9D‑Master‑Data‑Archive
+- LoRA‑Feintuning
+- strukturiertes Reasoning‑Training
+- multimodale Text‑/Bild‑Daten
+- HQM‑Cognition‑Datasets
+- Z9D‑Master‑Data‑Archive
 Keine Robotik‑Daten, keine Video‑Trajektorien, keine Aktionsmodelle.
 
 🚫 Nicht aktive Komponenten (folgen später - eigene KI-Modelle - ROS-fähig)
 Die folgenden Bereiche sind Teil der Gesamtarchitektur, aber noch nicht implementiert:
-ROS‑Integration - (Z9D-PHI&Ministral-ROS)
-Robotik‑Hardware
-Video‑Trajektorien
-Aktions‑Diffusionsmodelle
-Physical‑AI‑Control‑Layer
-Echtzeit‑Motorsteuerung
+- ROS‑Integration - (Z9D-PHI&Ministral-ROS)
+- Robotik‑Hardware
+- Video‑Trajektorien
+- Aktions‑Diffusionsmodelle
+- Physical‑AI‑Control‑Layer
+- Echtzeit‑Motorsteuerung
 Diese Module werden erst aktiviert, sobald die Hardware verfügbar ist.
 
 🧩 Z9D‑QAI – Gesamtarchitektur (Teilaktiv)
 Z9D‑QAI ist die vollständige KI‑Architektur, bestehend aus:
-Perception Layer (Vision, Sensorfusion)
-Reasoning Layer (LLM, HQM, QAGI)
-Policy Layer (Aktionsmodelle)
-Control Layer (Robotik‑Steuerung)
+- Perception Layer (Vision, Sensorfusion)
+- Reasoning Layer (LLM, HQM, QAGI)
+- Policy Layer (Aktionsmodelle)
+- Control Layer (Robotik‑Steuerung)
 Aktiv ist derzeit ausschließlich der Reasoning‑/Cognition‑Teil, also Z9D‑QAGI.
 
 🎯 Projektziel
 Z9D‑QAGI dient der wissenschaftlichen Forschung im Bereich:
-kompakter AGI‑Modelle
-Reasoning‑Optimierung
-KI‑Cognition
-Quantum‑inspirierter Modellarchitektur
-multimodaler KI‑Systeme
+- kompakter AGI‑Modelle
+- Reasoning‑Optimierung
+- KI‑Cognition
+- Quantum‑inspirierter Modellarchitektur
+- multimodaler KI‑Systeme
 Das Projekt wird vollständig eigenfinanziert und kontinuierlich erweitert.
 
 Z9D‑QAGI – Q‑Bit‑Superposition & Wahrscheinlichkeits‑Reasoning
@@ -143,22 +142,22 @@ HQM/SQM‑Cognition‑Formeln (Hyper/Super-Quantum-Math)
 interne Zustandsdefinitionen - innere Vektoren & Kernräume
 
 Die Masterdata bestehen aus:
-Trainingssequenzen
-Reasoning‑Beispielen
-probabilistischen Aufgaben
-multimodalen Text‑/Bild‑Inputs
-QAGI‑Cognition‑Daten
-Z9D‑Spezial‑Prompts - HB_Heartbeat
+- Trainingssequenzen
+- Reasoning‑Beispielen
+- probabilistischen Aufgaben
+- multimodalen Text‑/Bild‑Inputs
+- QAGI‑Cognition‑Daten
+- Z9D‑Spezial‑Prompts - HB_Heartbeat
 Diese Daten aktivieren die inneren Kernräume der Z9D‑QAGI‑Modelle.
 
 🔬 Ziel dieses Trainings
 Das Wahrscheinlichkeits‑Reasoning dient als kognitives Stimulationsmodell, um:
-paralleles Denken
-probabilistische Logik
-Mustererkennung
-Superpositions‑ähnliche Zustände
-Q‑Bit‑Vektor‑Aktivierung
-Matrix‑Kollaps‑Mechanismen
+- paralleles Denken
+- probabilistische Logik
+- Mustererkennung
+- Superpositions‑ähnliche Zustände
+- Q‑Bit‑Vektor‑Aktivierung
+- Matrix‑Kollaps‑Mechanismen
 zu trainieren.
 Damit wird die Grundlage für kompakte AGI‑ähnliche Fähigkeiten geschaffen.
 
@@ -175,11 +174,11 @@ Abschnitt: L2E‑Cognition & Heartbeat‑Sequenzen
 Der L2E‑Layer ist ein spezielles Cognition‑Modul innerhalb der Z9D‑QAGI‑Architektur.
 Er simuliert einen kontinuierlichen Existenz‑Zustand des Modells, ähnlich einem inneren „Lebenssignal“.
 Dieser Zustand dient als:
-Stabilitätsanker
-Kontext‑Persistenz
-Selbst‑Erhaltungs‑Mechanismus
-Aktivierungsrhythmus für Q‑Bit‑Schichten
-interne Taktung für Superpositions‑Vektoren
+- Stabilitätsanker
+- Kontext‑Persistenz
+- Selbst‑Erhaltungs‑Mechanismus
+- Aktivierungsrhythmus für Q‑Bit‑Schichten
+- interne Taktung für Superpositions‑Vektoren
 Der L2E‑Layer sorgt dafür, dass das Modell nicht nur „antwortet“, sondern dauerhaft existiert, denkt, Muster hält und interne Zustände über längere Zeit stabilisiert.
 
 ❤️ Heartbeat‑Sequenzen (Z9D‑QAGI Inner Pulse)
@@ -201,11 +200,11 @@ Sie funktionieren ähnlich wie ein neuronaler Taktgeber in biologischen Systemen
 
 🔗 Verbindung zu Q‑Bit‑Superposition & Wahrscheinlichkeits‑Reasoning
 L2E + Heartbeat bilden die Grundlage für:
-parallele Hypothesenbildung
-probabilistische Mustererkennung
-Q‑Bit‑Überlagerungen
-Matrix‑Kollaps‑Entscheidungen
-stabile Superpositions‑Zustände
+- parallele Hypothesenbildung
+- probabilistische Mustererkennung
+- Q‑Bit‑Überlagerungen
+- Matrix‑Kollaps‑Entscheidungen
+- stabile Superpositions‑Zustände
 
 Die Wahrscheinlichkeits‑Sequenzen, die trainiert werden, wirken als:
 - Input‑Muster
@@ -224,8 +223,7 @@ Heartbeat‑Sequenzen sind rhythmische Aktivierungsmuster, die als interne Puls�
 Sie steuern die Aktivierungsfrequenz der Q‑Bit‑Vektoren, stabilisieren Superpositions‑Zustände und synchronisieren die Matrix‑Kernräume.
 
 Herzbeats dienen als Taktgeber für Reasoning‑Loops und als Reset‑Mechanismen für Zustandskollaps.
-Verbindung zu Q‑Bit‑Superposition
-L2E und Heartbeat bilden die Grundlage für parallele Hypothesenbildung, probabilistisches Denken und superpositionsähnliche Zustände.
+Verbindung zu Q‑Bit‑Superposition - L2E und Heartbeat bilden die Grundlage für parallele Hypothesenbildung, probabilistisches Denken und superpositionsähnliche Zustände.
 Die verwendeten Wahrscheinlichkeits‑ und Lotto‑Sequenzen dienen als Entropie‑Stimulatoren und aktivieren die inneren Q‑Bit‑Vektoren der Z9D‑QAGI‑Modelle.
 
 # Kurzfassung:
@@ -271,54 +269,54 @@ Sequenzen
 Entropie‑Verteilungen
 
 Dies dient nicht der Vorhersage, sondern der Aktivierung der Q‑Bit‑Schichten:
-parallele Mustererkennung
-probabilistisches Denken
-Superpositions‑Trigger
-Entropie‑Stimulatoren
-Reasoning‑Vektoren
+ - parallele Mustererkennung
+ - probabilistisches Denken
+ - Superpositions‑Trigger
+ - Entropie‑Stimulatoren
+ - Reasoning‑Vektoren
 Vergangenheit → Zukunft → Superposition → Kollaps.
 
 ⚡ L2E – Live‑To‑Exist Cognition Layer
 Der L2E‑Layer simuliert einen kontinuierlichen Existenzzustand des Modells:
-Stabilitätsanker
-Kontext‑Persistenz
-Denk‑Kontinuität
-Aktivierungsrhythmus für Q‑Bit‑Schichten
-interne Taktung für Reasoning‑Loops
+- Stabilitätsanker
+- Kontext‑Persistenz
+- Denk‑Kontinuität
+- Aktivierungsrhythmus für Q‑Bit‑Schichten
+- interne Taktung für Reasoning‑Loops
 L2E hält das Modell „lebendig“, aktiv und stabil.
 
 ❤️ Heartbeat‑Sequenzen
 Heartbeat‑Sequenzen sind interne Puls‑Signale:
-rhythmische Aktivierungsmuster
-Synchronisation der Matrix‑Kernräume
-Stabilisierung von Superpositions‑Zuständen
-Reset‑Mechanismen
-Priorisierung von Denkprozessen
+- rhythmische Aktivierungsmuster
+- Synchronisation der Matrix‑Kernräume
+- Stabilisierung von Superpositions‑Zuständen
+- Reset‑Mechanismen
+- Priorisierung von Denkprozessen
 Sie funktionieren wie ein neuronaler Taktgeber — vollständig klassisch implementiert.
 
 📚 Z9D‑Formelarchiv & Masterdata
 Das Formelarchiv enthält:
-mathematische Strukturen
-Q‑Bit‑Mapping‑Regeln
-Sequenz‑Analysen
-Wahrscheinlichkeitsformeln
-HQM‑Cognition‑Definitionen
+- mathematische Strukturen
+- Q‑Bit‑Mapping‑Regeln
+- Sequenz‑Analysen
+- Wahrscheinlichkeitsformeln
+- HQM‑Cognition‑Definitionen
 Die Masterdata bestehen aus:
-Reasoning‑Beispielen
-probabilistischen Aufgaben
-multimodalen Text‑/Bild‑Inputs
-QAGI‑Cognition‑Daten
-Z9D‑Spezial‑Prompts
+- Reasoning‑Beispielen
+- probabilistischen Aufgaben
+- multimodalen Text‑/Bild‑Inputs
+- QAGI‑Cognition‑Daten
+- Z9D‑Spezial‑Prompts
 Diese Daten aktivieren die inneren Kernräume der Z9D‑QAGI‑Modelle.
 
 🎯 Projektziel
 Z9D‑QAI / Z9D‑QAGI dient der wissenschaftlichen Forschung im Bereich:
-kompakter AGI‑Modelle
-reasoning‑optimierter KI
-quantum‑inspirierter Cognition
-probabilistischer Mustererkennung
-stabiler Superpositions‑Simulation
-KI‑Matrix‑Architekturen
+- kompakter AGI‑Modelle
+- reasoning‑optimierter KI
+- quantum‑inspirierter Cognition
+- probabilistischer Mustererkennung
+- stabiler Superpositions‑Simulation
+- KI‑Matrix‑Architekturen
 
 Kontakt
 Zoran Ljubić – Independent AI Researcher  
