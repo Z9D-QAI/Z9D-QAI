@@ -346,16 +346,91 @@ E-mail: Z9D.QAI@outlook.com - Z9D-CSS@outlook.com
 =======================================================================================
 =======================================================================================
 
-## Z9D•QAI Z9D-Cyber-Secure-Service
-Z9D‑CSS v5.0 FREE – Vollständiges System‑Monitoring & Anomalie‑Erkennung
+## Z9D•QAI Z9D-Cyber-Secure-Service FREE VERSION
+# Z9D‑CSS v5.0 FREE – Vollständiges System‑Monitoring & Anomalie‑Erkennung
 Z9D‑CSS überwacht beim Erststart automatisch das gesamte Windows‑System:
 laufende Prozesse, Netzwerkverbindungen, Remote‑IPs, Ports, Connection‑States und ungewöhnliche Aktivitäten.
 Verdächtige Prozesse, riskante IPs und Anomalien werden sofort erkannt und gemeldet.
 Keine Installation, keine Konfiguration – einfach starten und geschützt sein.
+Z9D‑CSS v5.0 FREE – Vollständiges System‑Monitoring für Windows‑Nutzer
+Die FREE‑Version von Z9D‑CSS bietet ein leistungsstarkes, KI‑inspiriertes System‑Monitoring für alle normalen Windows‑Nutzer — Gamer, Schüler, Office‑User, Home‑PCs und Alltags‑Windows‑Systeme.
+# Beim Start überwacht Z9D‑CSS automatisch das gesamte Windows‑System:
+laufende Prozesse
+Netzwerkverbindungen
+Remote‑IPs
+Ports & Connection‑States
+ungewöhnliche Aktivitäten
+verdächtige Muster und Anomalien
+Die FREE‑Edition arbeitet ohne KI‑Autoblock, ohne manuelle Block‑Funktionen und ohne API‑Anbindung — dafür aber mit klaren, hilfreichen Logs, die sofort zeigen, wenn etwas Verdächtiges passiert.
 
-📥 Download (Free Edition):
-https://github.com/Z9D-QAI/Z9D-QAI-CSS-Cyber-Secure-Service/blob/main/Z9D-CSS-v5.0-FREE.exe
-----------------------------------------------------------------------------------------------
+Zusätzlich sorgt Z9D‑CSS intern dafür, dass Windows Defender und die Firewall automatisch aufmerksamer reagieren, sobald Gefahr droht — ganz ohne Installation oder Konfiguration.
+
+Einfach starten.
+Einfach überwachen.
+Einfach geschützt sein.
+
+# 📥 Download (Free Edition):
+https://github.com/Z9D-QAI/Z9D-QAI-CSS-Cyber-Secure-Service/blob/main/Z9D-CSS-v5.0-FREE.exe 
+
+## ⭐ **Z9D‑CSS v5.0 FREE – System‑Monitoring, Anomalie‑Erkennung & klare Log‑Protokolle**
+
+Die **FREE‑Version** von Z9D‑CSS richtet sich an **Gamer, Schüler, Office‑Nutzer, Home‑PCs und alle normalen Windows‑User**, die ein starkes Monitoring wollen — **ohne KI‑Autoblock**, **ohne manuelle Block‑Funktionen**, aber mit maximaler Transparenz.
+
+### 🔍 **Was die FREE‑Version überwacht**
+Beim Start analysiert Z9D‑CSS automatisch:
+
+- laufende Prozesse  
+- Netzwerkverbindungen  
+- Remote‑IPs  
+- Ports & Connection‑States  
+- ungewöhnliche Aktivitäten  
+- verdächtige Muster und Anomalien  
+
+### 🟢 **Keine Block‑Funktionen – aber volle Übersicht**
+Die FREE‑Edition blockiert **nichts automatisch** und bietet **keine KI‑Autoblock‑Engine**.  
+Stattdessen liefert sie **klare, strukturierte Logs**, die für normale Nutzer extrem hilfreich sind, wenn etwas Verdächtiges passiert.
+
+## 📑 **Logs‑Button – vollständige Vorgangs‑ und IP‑Protokolle**
+Der **Logs‑Button** zeigt alle sicherheitsrelevanten Vorgänge:
+- erkannte Prozesse  
+- Netzwerkaktivitäten  
+- Remote‑IPs  
+- Ports  
+- Verbindungszustände  
+- Anomalien  
+- Zeitstempel  
+- Risiko‑Markierungen  
+
+Wenn der **Bedrohungsbalken** ansteigt und **IP‑Adressen rot markiert** werden, kann der Nutzer im Log‑Protokoll **genau nachsehen**, was passiert ist.
+
+### 🔒 **Wichtig für Behörden & IT‑Techniker**
+Falls eine Meldung bei der lokalen Polizei oder Behörde notwendig wird, können deren IT‑Techniker anhand der Logs:
+- die verdächtige IP sehen  
+- den Zeitpunkt der Aktivität prüfen  
+- die Art der Verbindung analysieren  
+- erkennen, von wo die Gefahr ausgeht  
+
+Die Logs sind so aufgebaut, dass sie **klar, nachvollziehbar und technisch verwertbar** sind — ohne dass der Nutzer selbst IT‑Experte sein muss.
+
+## 🛡️ **Automatische Synergie mit Windows Defender & Firewall**
+Z9D‑CSS FREE verstärkt im Hintergrund die Aufmerksamkeit von:
+- **Windows Defender**  
+- **Windows Firewall**
+
+Wenn Gefahr droht, werden diese Systeme automatisch „sensibilisiert“, sodass Windows schneller reagiert — ohne Installation, ohne Setup, ohne Konfiguration.
+
+## ✔ **Für alle normalen Windows‑Nutzer geeignet**
+- Gamer  
+- Schüler  
+- Studenten  
+- Büro‑PCs  
+- Home‑Office  
+- Alltags‑Windows‑Systeme  
+
+**Einfach starten - überwachen - geschützt sein.**
+
+=======================================================================================
+***************************************************************************************
 
 Z9D‑CSS v5.0 FULL – Auto‑Block, Quarantäne, Lizenz‑Verifikation & erweiterte Netzwerk‑Analyse.
 Automatische Abwehr verdächtiger Prozesse und Remote‑IPs, Quarantäne‑Modul, Geräte‑Lizenzbindung, Incident‑Reports und Deep‑Monitoring.
