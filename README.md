@@ -34,10 +34,9 @@ Der aktuelle Fokus liegt ausschließlich auf Reasoning, Cognition, Memory‑Syst
 Robotik‑Integration (ROS, Sensorfusion, Aktionsmodelle) folgt später, sobald die entsprechende Hardware verfügbar ist.
 
 🔬 Aktiver Forschungsbereich (Stand 2026)
-Reasoning Layer
+Reasoning Layer - 
 Der Reasoning‑Layer bildet die logische und analytische Denkstruktur der Z9D‑QAGI‑Modelle.
 Er umfasst:
-
 Schritt‑für‑Schritt‑Analyse
 logische Ketten
 interne Fehlererkennung
