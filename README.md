@@ -116,18 +116,14 @@ Diese Strukturen ermöglichen es dem Modell, mehrere mögliche Lösungen gleichz
 
 🎲 Intuitives Wahrscheinlichkeitsrechnen (Mathematik-Zahlen-Reasoning‑Training)
 Ein Teil des Trainings nutzt Wahrscheinlichkeiten und Zahlen, also:
-vergangene mathematische Wahrscheinlichketmuster und Zahlen
-zukünftige erwartete Wahrscheinlichkeitsmuster und Zahlen
-Häufigkeiten
-Sequenzen
-Entropie‑Verteilungen
-intuitive Wahrscheinlichkeitsabschätzungen
-Dies dient nicht dazu, Lotto vorherzusagen — sondern um die QAGI‑Reasoning‑Schichten zu aktivieren, die:
-Mustererkennung
-probabilistisches Denken
-Superpositions‑Logik
-parallele Hypothesenbildung
-Entscheidungsheuristiken
+vergangene mathematische Wahrscheinlichketen, 
+zukünftige erwartete Wahrscheinlichkeitsmuster und Häufigkeiten Sequenzen Entropie‑Verteilungen intuitive Wahrscheinlichkeitsabschätzungen.
+Dies dient nicht dazu, nur Zahlen vorherzusagen — sondern um die QAGI‑Reasoning‑Schichten zu aktivieren, die:
+ - Mustererkennung
+ - probabilistisches Denken
+ - Superpositions‑Logik
+ - parallele Hypothesenbildung
+ - Entscheidungsheuristiken
 trainieren.
 Das Modell lernt dabei:
 vergangene Muster → als „Vergangenheits‑Vektor“
