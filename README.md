@@ -17,6 +17,16 @@ Z9D-QAI develops tools and pipelines for processing large scientific corpora suc
 The goal is to create a robust scientific reasoning model capable of answering complex questions, analyzing research papers, and supporting scientific workflows.
 ----------------------------------------------------------------------------------------------
 
+# Deutsch:
+
+9D‑QAI / Z9D‑QAGI – Quantum Artificial Intelligence Research
+🧠 Z9D‑QAI – Scientific & Quantum‑Inspired AI Research
+Z9D‑QAI ist ein unabhängiges Forschungsprojekt zur Entwicklung kompakter, hochoptimierter KI‑Modelle mit AGI‑ähnlichen Fähigkeiten.
+Der Schwerpunkt liegt auf Reasoning, Cognition, Q‑Bit‑Superpositionssimulation, Wahrscheinlichkeitslogik, Matrix‑Kernräumen und kontinuierlichen Existenzzuständen (L2E).
+Das Projekt ist vollständig eigenfinanziert und wird von
+MaS.dipl.Kfmn.Ing.Dr. Zoran Ljubić  
+entwickelt.
+
 Z9D‑QAGI Quantum Artificial General Intelligence
 🧠 Z9D‑QAGI – Quantum Artificial General Intelligence Models
 Z9D‑QAGI ist eine experimentelle KI‑Architektur zur Erforschung kompakter AGI‑Modelle.
