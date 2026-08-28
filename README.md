@@ -432,7 +432,8 @@ Wenn Gefahr droht, werden diese Systeme automatisch „sensibilisiert“, sodass
 =======================================================================================
 ***************************************************************************************
 
-Z9D‑CSS v5.0 FULL – Auto‑Block, Quarantäne, Lizenz‑Verifikation & erweiterte Netzwerk‑Analyse.
+# Z9D‑CSS v5.0 FULL PRO VERSION
+Z9D‑CSS v5.0 FULL PRO VERSION – Auto‑Block, Quarantäne, Lizenz‑Verifikation & erweiterte Netzwerk‑Analyse.
 Automatische Abwehr verdächtiger Prozesse und Remote‑IPs, Quarantäne‑Modul, Geräte‑Lizenzbindung, Incident‑Reports und Deep‑Monitoring.
 Die Vollversion reagiert selbstständig auf Bedrohungen — ohne Benutzerinteraktion.
 
