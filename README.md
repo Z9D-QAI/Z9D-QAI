@@ -17,7 +17,7 @@ Z9D-QAI develops tools and pipelines for processing large scientific corpora suc
 The goal is to create a robust scientific reasoning model capable of answering complex questions, analyzing research papers, and supporting scientific workflows.
 ----------------------------------------------------------------------------------------------
 
-# Deutsch:
+# Deutsch: *AKTUELL* !!! 
 
 9D‑QAI / Z9D‑QAGI – Quantum Artificial Intelligence Research
 🧠 Z9D‑QAI – Scientific & Quantum‑Inspired AI Research
