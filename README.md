@@ -1187,7 +1187,6 @@ Für Industrie‑Robotik, Produktionslinien, kritische Infrastruktur.
 Mit Multi‑Layer‑Security, Auto‑Kill, Sensor‑Fusion, Zero‑Telemetry.
 
 *Versionen*:
-
 # 🔧 **SRS 5.0 – Offline Robotic Security (Auto‑Block Edition)**  
 **Zielgruppe:**  
 Labor‑Roboter, einfache mobile Einheiten, Air‑Gap‑Robotik, Offline‑Steuergeräte.
@@ -1323,6 +1322,11 @@ Sie kombiniert KI‑EDR, Offline‑Heuristik, Multi‑Layer‑Security und Senso
 - Ausgabe erfolgt gemäß **Auftragsbestellungen** der Robotikunternehmen
 ================================================================================
 # *Ich arbeite noch an den Z9D-CSS_SRS Versionen, - Diese werden nächstens auch verfügbar sein!!!*
+Die nächste Generation der Z9D‑CSS_SRS Robotik‑Security‑Versionen befindet sich in der finalen Entwicklungsphase.
+Neue SRS‑Versionen werden demnächst veröffentlicht und stehen dann für Robotik‑Hersteller, OEM‑Partner und autonome Systeme bereit.
+> Hinweis:  
+Die neuen Z9D‑CSS_SRS Versionen (SRS v5.3 PRO und SRS v6.x) befinden sich aktuell in aktiver Entwicklung.
+Sobald die finalen Builds abgeschlossen sind, werden diese Versionen hier veröffentlicht und für Robotik‑Hersteller verfügbar gemacht.
 ********************************************************************************
 ================================================================================
 
