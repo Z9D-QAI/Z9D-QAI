@@ -1155,6 +1155,92 @@ Perfekt für:
 Jede Einheit wird über einen individuellen Lizenzschlüssel aktiviert und bleibt strikt an die Geräte‑Nummer und das Betriebssystem gebunden.  
 Damit sind diese Versionen ideal für Robotik‑Systeme, die maximale Sicherheit, Offline‑Betrieb und ROS‑Konformität benötigen.**
 
+
+# Z9D-CSS_SRS
+# 🟩 **SRS – Secure‑Robotic‑System (Robotik‑Sicherheitslinie)**  
+*Offline‑Robotic‑Security mit Geräte‑ID‑gebundenem Lizenzschlüssel und eigenem Lizenzschlüssel‑Generator.*
+
+Die SRS‑Produktlinie ist speziell für Robotiksysteme entwickelt, die **offline**, **autark**, **sicherheitskritisch** und **ohne Cloud‑Abhängigkeiten** arbeiten müssen.  
+Alle SRS‑Versionen nutzen:
+- Geräte‑ID‑gebundene Lizenzschlüssel  
+- einen eigenen Lizenzschlüssel‑Generator  
+- Bluetooth‑Security‑Layer (Anti‑Hijacking)  
+- Zero‑Telemetry  
+- Offline‑Betrieb  
+- keine tiefgreifenden Windows‑APIs  
+- keine Kernel‑Treiber  
+- keine Root‑Hooks  
+- keine Code‑Offenlegung
+
+# Z9D-CSS_SRS – Secure‑Robotic‑System
+🔧 SRS 5.0 – Offline Robotic Security (Auto‑Block Edition)
+Für einfache Robotiksysteme, Labor‑Roboter, Air‑Gap‑Umgebungen.
+Mit Bluetooth‑Security‑Layer und Geräte‑ID‑gebundenem Lizenzschlüssel.
+🤖 SRS 5.2 – KI‑Robotic Security (PRO KI‑Heuristik Edition)
+Für autonome Robotik, KI‑Aktoren, Forschungsrobotik.
+Mit KI‑Guard, KI‑EDR‑Heuristik und Bluetooth‑Security‑Layer.
+🛡️ SRS 6.0 – Industrial Robotic Security (Elite Edition)
+Für Industrie‑Robotik, Produktionslinien, kritische Infrastruktur.
+Mit Multi‑Layer‑Security, Auto‑Kill, Sensor‑Fusion, Zero‑Telemetry.
+
+*Versionen*:
+
+# 🔧 **SRS 5.0 – Offline Robotic Security (Auto‑Block Edition)**  
+**Zielgruppe:**  
+Labor‑Roboter, einfache mobile Einheiten, Air‑Gap‑Robotik, Offline‑Steuergeräte.
+**Funktionen:**  
+- Offline‑Security ohne KI  
+- Auto‑Block‑Mechanismus  
+- Bluetooth‑Security‑Layer (Pairing‑Schutz, Anti‑Hijacking)  
+- Geräte‑ID‑gebundene Lizenzierung  
+- Lizenzschlüssel pro Robotereinheit  
+- Zero‑Telemetry  
+- Keine Cloud, keine externen APIs  
+**Beschreibung:**  
+SRS 5.0 ist die stabile Grundversion für Robotiksysteme, die **offline** und **autark** arbeiten.  
+Perfekt für Labor‑Robotik und einfache mobile Systeme.
+
+# 🤖 **SRS 5.2 – KI‑Robotic Security (KI‑Heuristik Edition)**  
+**Zielgruppe:**  
+Autonome Robotik, semi‑autonome Systeme, KI‑gestützte Aktoren, Forschungsrobotik.
+**Funktionen:**  
+- KI‑Heuristik für Prozess‑ und Verhaltensanalyse  
+- KI‑Guard‑Modul (lokale KI‑EDR‑Logik)  
+- Auto‑Block + KI‑Analyse  
+- Bluetooth‑Security‑Layer  
+- Geräte‑ID‑gebundene Lizenzierung  
+- Lizenzschlüssel pro Robotereinheit  
+- Zero‑Telemetry  
+**Beschreibung:**  
+SRS 5.2 erweitert die 5.0‑Basis um eine **lokale KI‑EDR‑Engine**, die Bedrohungen erkennt, bewertet und blockiert.  
+Ideal für moderne Robotiksysteme mit KI‑Modulen oder autonomen Funktionen.
+
+# 🛡️ **SRS 6.0 – Industrial Robotic Security (Elite Edition)**  
+**Zielgruppe:**  
+Industrie‑Robotik, Produktionslinien, autonome Fertigungsanlagen, kritische Infrastruktur.
+**Funktionen:**  
+- Vollständige KI‑EDR‑Engine  
+- Auto‑Block + Auto‑Kill  
+- Multi‑Layer‑Security  
+- Sensor‑Fusion‑Analyse  
+- Zero‑Telemetry  
+- Geräte‑ID‑gebundene Lizenzierung  
+- Lizenzschlüssel pro Robotereinheit  
+- Optionaler Bluetooth‑Security‑Layer  
+**Beschreibung:**  
+SRS 6.0 ist die **Elite‑Version** für industrielle Robotiksysteme und kritische Infrastruktur.  
+Sie kombiniert KI‑EDR, Offline‑Heuristik, Multi‑Layer‑Security und Sensor‑Fusion zu einem vollständigen Sicherheitskern.
+
+# 🔑 **Lizenzierung (alle SRS‑Versionen)**  
+- Jede Robotereinheit erhält einen **eindeutigen Lizenzschlüssel**  
+- Lizenzschlüssel sind an die **Geräte‑ID** gebunden  
+- Ein Lizenzschlüssel gilt **nur für eine Robotereinheit**  
+- Interne Weitergabe ist technisch blockiert  
+- Lizenzschlüssel werden über den **SRS‑Lizenzschlüssel‑Generator** erstellt  
+- Ausgabe erfolgt gemäß **Auftragsbestellungen** der Robotikunternehmen
+
+================================================================================
+================================================================================
 # Z9D‑CSS v6.0 PRO_Elite ist ein vollständig lokales KI‑EDR‑System, das moderne Cloud‑EDR‑Plattformen technologisch überholt und nach der Aktivierung vollständig offline betrieben werden kann — inklusive ROS‑konformer KI‑Analyse für Robotik‑ und Sensor‑Systeme.
 
 # 🟦 Vergleich: Cloud‑EDR Systeme vs. Z9D‑CSS v6.0 PRO_Elite
