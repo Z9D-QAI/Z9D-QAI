@@ -58,7 +58,7 @@ Die tatsächliche Nutzung ist daher **deutlich höher**, als GitHub anzeigen kan
 
 # Deutsch: *AKTUELL* !!!
 
-9D‑QAI / Z9D‑QAGI – Quantum Artificial Intelligence Research
+# Z9D‑QAI / Z9D‑QAGI – Quantum Artificial Intelligence Research
 🧠 Z9D‑QAI – Scientific & Quantum‑Inspired AI Research
 Z9D‑QAI ist ein unabhängiges Forschungsprojekt zur Entwicklung kompakter, hochoptimierter KI‑Modelle mit AGI‑ähnlichen Fähigkeiten.
 Der Schwerpunkt liegt auf Reasoning, Cognition, Q‑Bit‑Superpositionssimulation, Wahrscheinlichkeitslogik, Matrix‑Kernräumen und kontinuierlichen Existenzzuständen (L2E).
