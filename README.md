@@ -432,6 +432,7 @@ Wenn Gefahr droht, werden diese Systeme automatisch „sensibilisiert“, sodass
 **Einfach starten - überwachen - geschützt sein.**
 
 =======================================================================================
+# Z9D-CSS Cyber Secure Service nutzt KEINE tiefgreifende Windows-APIs oder sonnstige andere APIs zur Systemüberwachung!
 ***************************************************************************************
 
 # Z9D‑CSS v5.0 FULL PRO VERSION
