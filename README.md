@@ -21,7 +21,7 @@ README.md -> Deutsch: = *AKTUELL* !!!
 
 # Z9D-QAI-CSS Cyber Secure Service = EDR-System
 
-# 🟩 **Interne Weitergabe & Air‑Gap‑Distribution**
+🟩 **Interne Weitergabe & Air‑Gap‑Distribution**
 > **GitHub‑Statistiken zeigen nur einen Teil der tatsächlichen Nutzung.  
 > In sicherheitskritischen Bereichen werden Tools wie Z9D‑CSS häufig intern weiterverteilt – außerhalb der Sichtbarkeit von GitHub.**
 **Warum die interne Weitergabe unsichtbar bleibt**
