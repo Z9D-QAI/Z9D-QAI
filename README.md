@@ -419,7 +419,6 @@ Die **FREE‑Version** von Z9D‑CSS richtet sich an **Gamer, Schüler, Office�
 
 ### 🔍 **Was die FREE‑Version überwacht**
 Beim Start analysiert Z9D‑CSS automatisch:
-
 - laufende Prozesse  
 - Netzwerkverbindungen  
 - Remote‑IPs  
@@ -469,10 +468,46 @@ Wenn Gefahr droht, werden diese Systeme automatisch „sensibilisiert“, sodass
 - Alltags‑Windows‑Systeme  
 
 **Einfach starten - überwachen - geschützt sein.**
-
 ========================================================================
-# Z9D-CSS Cyber Secure Service nutzt KEINE tiefgreifenden Windows-APIs oder sonstig andere APIs zur Systemüberwachung, wie etwa Kernel-Treiber oder native Root-Hooks! - Es überprüft und überwacht es auch!
-# Aus Sicherheitsgründen werden KEINE Z9D-CSS Program-codes und Scripte offengelegt oder veröffentlicht! 
+
+# 🛡️ **Technische Sicherheit & Architekturhinweis**
+## **Keine tiefgreifenden Windows‑APIs, keine Kernel‑Treiber, keine Root‑Hooks**
+**Z9D‑CSS Cyber Secure Service nutzt KEINE tiefgreifenden Windows‑APIs**,  
+wie z. B.:
+- Kernel‑Treiber  
+- Root‑Hooks  
+- Inline‑Hooks  
+- API‑Injection  
+- Low‑Level‑Systemmanipulation  
+- Kernel‑Patch‑Techniken  
+- oder andere invasive Überwachungsmechanismen
+Das System arbeitet **rein auf Benutzer‑Ebene**, ohne kritische Systemeingriffe.
+**Es überwacht und prüft das System – aber es manipuliert es nicht.**  
+**Es schützt, ohne tief ins Betriebssystem einzugreifen.**
+Damit ist Z9D‑CSS:
+- stabil  
+- sicher  
+- kompatibel  
+- update‑resistent  
+- und für kritische Infrastrukturen geeignet
+## 🔒 **Keine Offenlegung von Programmcodes oder Skripten**
+Aus Sicherheitsgründen werden:
+- **keine internen Programmcodes**,  
+- **keine Skripte**,  
+- **keine KI‑Heuristik‑Module**,  
+- **keine Logikpfade**,  
+- **keine Schutzmechanismen**,  
+- **keine internen Abläufe**
+offengelegt oder veröffentlicht.
+Dies verhindert:
+- Reverse‑Engineering  
+- Manipulation  
+- Missbrauch  
+- KI‑Modell‑Angriffe  
+- Nachbau durch Dritte  
+- Sicherheitslücken durch Code‑Leaks
+  -> **Z9D‑CSS ist ein Sicherheitsprodukt, kein Open‑Source‑Projekt.**  
+  -> **Nur die ausführbare Version wird bereitgestellt.**
 ************************************************************************
 
 # Z9D‑CSS v5.0 FULL PRO VERSION
