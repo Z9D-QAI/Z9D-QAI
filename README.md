@@ -17,7 +17,7 @@ Z9D-QAI develops tools and pipelines for processing large scientific corpora suc
 The goal is to create a robust scientific reasoning model capable of answering complex questions, analyzing research papers, and supporting scientific workflows.
 -------------------------------------------------------------------------
 *************************************************************************
-# README.md -> Deutsch: = *AKTUELL* !!!
+README.md -> Deutsch: = *AKTUELL* !!!
 
 # Z9D-QAI-CSS Cyber Secure Service = EDR-System
 
