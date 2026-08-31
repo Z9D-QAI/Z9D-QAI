@@ -1217,6 +1217,86 @@ Autonome Robotik, semi‑autonome Systeme, KI‑gestützte Aktoren, Forschungsro
 **Beschreibung:**  
 SRS 5.3 erweitert die 5.0‑Basis um eine **lokale KI‑EDR‑Engine**, die Bedrohungen erkennt, bewertet und blockiert.  
 Ideal für moderne Robotiksysteme mit KI‑Modulen oder autonomen Funktionen.
+# 🤖 **KI‑Engine in SRS v5.3 (Secure‑Robotic‑System)**  
+*SRS v5.3 enthält die vollständige KI‑EDR‑Engine der Z9D‑CSS v6.0‑Linie – optimiert für Robotiksysteme, Funkoberflächen und autonome KI‑Aktoren.*
+Die Version **SRS v5.3** nutzt eine integrierte **KI‑EDR‑Engine**, die Bedrohungen lokal erkennt, bewertet und automatisch Gegenmaßnahmen einleitet.  
+Alle KI‑Funktionen arbeiten **offline**, ohne Cloud‑Abhängigkeiten und ohne tiefgreifende Windows‑APIs.
+## 🔍 **KI‑Heuristik & Prozessanalyse**  
+Die KI‑Engine überwacht kontinuierlich:
+- aktive Prozesse  
+- Threads & Subprozesse  
+- Speicherverhalten  
+- ungewöhnliche Systemaufrufe  
+- Manipulationsversuche  
+- Remote‑Steuerungsaktivität  
+- Funk‑/Wireless‑Signale (Bluetooth, IR, RF, WLAN, Hotspot)
+Die KI‑Heuristik bewertet jede Aktivität mit einem **Threat‑Score**, der die Grundlage für automatische Schutzmaßnahmen bildet.
+## 🧠 **KI‑Guard‑Modul (lokale KI‑EDR‑Logik)**  
+Das KI‑Guard‑Modul führt:
+- Verhaltensanalyse  
+- Mustererkennung  
+- Anomalie‑Erkennung  
+- Funk‑Signal‑Bewertung  
+- Robotik‑Profil‑Abgleich  
+- KI‑Modus‑Validierung (Remote / Autonom / KI‑Aktiv)
+Durch die Kombination aus Prozess‑Heuristik und Funk‑Analyse entsteht ein **vollständiges Robotik‑Sicherheitsmodell**.
+## ⚙️ **Invoke‑Engine (Auto‑Block / Auto‑Kill)**  
+SRS v5.3 enthält die **Invoke‑Engine der v6.0‑Linie**, die automatisch reagiert:
+- **Auto‑Block**  
+  blockiert Prozesse, Funkmodule oder Netzwerkpfade bei mittlerer Bedrohung.
+- **Auto‑Kill**  
+  beendet kritische Prozesse oder Funkverbindungen bei hoher Bedrohung.
+- **Wireless‑Lockdown**  
+  deaktiviert Bluetooth, IR, RF, WLAN oder Hotspot bei Funk‑Hijacking‑Risiko.
+- **Robotik‑Profil‑Lockdown**  
+  erzwingt die Sicherheitsrichtlinien des gewählten Robotertyps (OEM‑Profil).
+## 📡 **KI‑Analyse für Funk‑/Wireless‑Oberflächen**  
+Die KI‑Engine bewertet alle Funkmodule:
+- Bluetooth‑Sichtbarkeit  
+- IR‑Empfangsaktivität  
+- RF‑Signalstärke  
+- WLAN‑Zustand  
+- Hotspot‑Status  
+- Wi‑Fi‑Direct  
+- OEM‑Funkfreigaben
+Nicht freigegebene Funkwege werden automatisch als **Bedrohung** eingestuft und können blockiert werden.
+## 🛡️ **Robotik‑Profile + KI‑EDR**  
+Die KI‑Engine berücksichtigt das gewählte Robotikprofil:
+- Industrie‑Roboterarm  
+- autonomer mobiler Roboter (AMR/AGV)  
+- humanoider KI‑Roboter  
+- Drohne / Funk‑Fernsystem  
+- Service‑/Pflege‑Roboter  
+Jedes Profil definiert:
+- erlaubte Funkwege  
+- erlaubte Steuerungsmodi  
+- KI‑Freigaben  
+- Remote‑Freigaben  
+- Autonomie‑Level  
+Die KI‑Engine passt ihre Entscheidungen dynamisch an das Profil an.
+## 🔒 **Offline‑Betrieb & Zero‑Telemetry**  
+Die KI‑Engine arbeitet vollständig:
+- offline  
+- ohne Cloud  
+- ohne Telemetrie  
+- ohne externe APIs  
+- ohne Kernel‑Treiber  
+- ohne Root‑Hooks  
+Damit ist SRS v5.3 ideal für:
+- autonome Robotik  
+- Industrieanlagen  
+- Air‑Gap‑Umgebungen  
+- sicherheitskritische Systeme  
+- OEM‑Hersteller
+## 🧩 **Zusammenfassung**  
+**SRS v5.3** enthält die vollständige KI‑EDR‑Engine der v6.0‑Linie und erweitert sie um:
+- Funk‑/Wireless‑Analyse  
+- Robotik‑Profile  
+- OEM‑Profile  
+- Wireless‑Lockdown  
+- KI‑gestützte Funkbewertung  
+- KI‑gestützte Robotik‑Sicherheitslogik  
+Damit ist SRS v5.3 eine **vollwertige KI‑Robotik‑Security‑Plattform**, die sowohl autonome als auch ferngesteuerte Robotiksysteme schützt.
 
 # 🛡️ **SRS 6.0 – Industrial Robotic Security (Elite Edition)**  
 **Zielgruppe:**  
