@@ -15,9 +15,48 @@ This is an independent research initiative focused on building high‑quality sc
 ## Research Focus
 Z9D-QAI develops tools and pipelines for processing large scientific corpora such as S2ORC, arXiv metadata, and domain‑specific datasets.
 The goal is to create a robust scientific reasoning model capable of answering complex questions, analyzing research papers, and supporting scientific workflows.
-----------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------
+*************************************************************************
+# Z9D-QAI-CSS Cyber Secure Service = EDR-System
+# 🟩 **Interne Weitergabe & Air‑Gap‑Distribution**
+> **GitHub‑Statistiken zeigen nur einen Teil der tatsächlichen Nutzung.  
+> In sicherheitskritischen Bereichen werden Tools wie Z9D‑CSS häufig intern weiterverteilt – außerhalb der Sichtbarkeit von GitHub.**
+**Warum die interne Weitergabe unsichtbar bleibt**
+Sobald Z9D‑CSS heruntergeladen wurde, erfolgt die weitere Verteilung oft über:
+- interne Firmen‑Server  
+- SOC‑ und NOC‑Umgebungen  
+- Robotik‑Cluster  
+- Industrie‑Steuerungsnetze  
+- Air‑Gap‑Systeme  
+- Forschungslabore  
+- interne Security‑Teams  
+- USB‑Transfer in isolierte Netzwerke  
+Diese Umgebungen sind **absichtlich abgeschottet**, weshalb GitHub nur die **Erst‑Downloads** zählt – nicht die tatsächliche interne Verbreitung.
+## 🛰️ **Interne Weitergabe**
+ bedeutet:
+- das Tool wird **ernst genommen**  
+- es wird **getestet und produktiv eingesetzt**  
+- es wird **intern empfohlen**  
+- es wird **in abgeschotteten Systemen installiert**  
+- es hat **echten Nutzen** für Security‑Teams  
+Für KI‑EDR‑Software ist das der stärkste Indikator für **realen Einsatz**.
+## 🧭 **GitHub‑Zahlen sind nur das Sichtbare**
+- Klone zeigen den **ersten Kontakt**  
+- Views zeigen die **öffentliche Interaktion**  
+- interne Installationen bleiben **unsichtbar**  
+- Air‑Gap‑Deployments sind **nicht messbar**  
+Die tatsächliche Nutzung ist daher **deutlich höher**, als GitHub anzeigen kann.
+---------------------------------------------------------------------
+*********************************************************************
+# ⭐ **Hinweis für Unterstützer**
+# Wenn dir Z9D‑CSS gefällt oder du es intern weiterverteilst,  
+# **bitte vergiss nicht, dem Projekt einen Stern zu geben.**
+# > Ein ⭐ auf GitHub hilft anderen Security‑Teams, das Projekt schneller zu finden  
+# > – und sorgt dafür, dass die öffentliche Sichtbarkeit dem tatsächlichen Einsatz näherkommt.
+*********************************************************************
+---------------------------------------------------------------------
 
-# Deutsch: *AKTUELL* !!! 
+# Deutsch: *AKTUELL* !!!
 
 9D‑QAI / Z9D‑QAGI – Quantum Artificial Intelligence Research
 🧠 Z9D‑QAI – Scientific & Quantum‑Inspired AI Research
