@@ -432,7 +432,7 @@ Wenn Gefahr droht, werden diese Systeme automatisch „sensibilisiert“, sodass
 **Einfach starten - überwachen - geschützt sein.**
 
 ========================================================================
-# Z9D-CSS Cyber Secure Service nutzt KEINE tiefgreifenden Windows-APIs oder sonnstig andere APIs zur Systemüberwachung, wie etwa Kernel-Treiber oder native Root-Hooks! 
+# Z9D-CSS Cyber Secure Service nutzt KEINE tiefgreifenden Windows-APIs oder sonstig andere APIs zur Systemüberwachung, wie etwa Kernel-Treiber oder native Root-Hooks! - Es überprüft und überwacht es auch!
 # Aus Sicherheitsgründen werden KEINE Z9D-CSS Programmcodes und Scripte offengelegt oder veröffentlicht! 
 ************************************************************************
 
