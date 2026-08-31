@@ -330,7 +330,7 @@ Kontakt
 Zoran Ljubić – Independent AI Researcher  
 GitHub: https://github.com/Z9D-QAI
 
-**************************************************************************************
+**********************************************************************
 ## Current Work
 - dataset engineering (metadata, abstracts, fulltext)
 - scientific text normalization
@@ -345,8 +345,8 @@ GitHub: https://github.com/Z9D-QAI/Z9D-QAI
 Tik_TOK: https://www.tiktok.com/@z9d.qai
 E-mail: Z9D.QAI@outlook.com - Z9D-CSS@outlook.com
 
-=======================================================================================
-=======================================================================================
+=====================================================================
+=====================================================================
 
 ## Z9D•QAI Z9D-Cyber-Secure-Service FREE VERSION
 # Z9D‑CSS v5.0 FREE – Vollständiges System‑Monitoring & Anomalie‑Erkennung
@@ -431,10 +431,10 @@ Wenn Gefahr droht, werden diese Systeme automatisch „sensibilisiert“, sodass
 
 **Einfach starten - überwachen - geschützt sein.**
 
-=====================================================================================
+========================================================================
 # Z9D-CSS Cyber Secure Service nutzt KEINE tiefgreifenden Windows-APIs oder sonnstig andere APIs zur Systemüberwachung, wie etwa Kernel-Treiber oder native Root-Hooks! 
 # Aus Sicherheitsgründen werden KEINE Z9D-CSS Programmcodes und Scripte offengelegt oder veröffentlicht! 
-*************************************************************************************
+************************************************************************
 
 # Z9D‑CSS v5.0 FULL PRO VERSION
 Z9D‑CSS v5.0 FULL PRO VERSION – Auto‑Block, Quarantäne, Lizenz‑Verifikation & erweiterte Netzwerk‑Analyse.
