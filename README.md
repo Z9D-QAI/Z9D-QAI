@@ -1059,7 +1059,6 @@ Z9D‑CSS v6.0 PRO_Elite ist kompatibel mit:
 Nach der Aktivierung vollständig offline, ROS‑konform und in der Lage, Robotik‑Systeme, KI‑Modelle, Sensor‑Netze und autonome Geräte in Echtzeit zu schützen.**
 
 Damit übertrifft es Cloud‑EDR‑Systeme technologisch in:
-
 - Geschwindigkeit  
 - Erkennungstiefe  
 - KI‑Analyse  
@@ -1068,82 +1067,59 @@ Damit übertrifft es Cloud‑EDR‑Systeme technologisch in:
 - Robotik‑Kompatibilität  
 
 # 🟩 **Offline‑Robotik‑Versionen (ohne Datenbank, mit Lizenzschlüssel)**
-
 ## **Lokale Offline‑Editionen für Robotik‑Systeme**
-
 Neben der PRO_Elite Hauptversion bietet Z9D‑CSS mehrere **Offline‑Varianten ohne Datenbank**, die speziell für Robotik‑Plattformen, autonome Geräte, Forschungsumgebungen und industrielle Steuerungsanlagen entwickelt wurden.
-
 Diese Editionen arbeiten vollständig **ohne Internet**, **ohne Cloud**, **ohne Telemetrie** und **ohne externe Datenübertragung**.  
 Alle sicherheitsrelevanten Funktionen laufen lokal auf dem Gerät.
-
 ## **Lizenzmodell für Robotik‑Einheiten**
-
 Jede Offline‑Robotik‑Version wird über einen **individuellen Lizenzschlüssel** aktiviert:
-
 - **pro Roboter‑Einheit**  
 - **pro Geräte‑Nummer (Hardware‑ID)**  
 - **pro Betriebssystem‑Instanz**
-
 Damit ist jede Installation eindeutig an:
-
 - das Gerät  
 - die Hardware  
 - das Betriebssystem  
-
 gebunden und kann nicht kopiert oder auf andere Systeme übertragen werden.
-
 Lizenzschlüssel werden direkt beim Entwickler angefragt und für jede Robotik‑Einheit separat generiert.
-
 ## **Perfekt für Offline‑KI in Robotik‑Systemen**
-
 Die Offline‑Versionen sind ideal für Robotik‑Umgebungen, die **keine Cloud‑Verbindung** zulassen oder regulatorisch **keine externen Daten** übertragen dürfen.
-
 Unterstützt werden:
-
 - **Windows‑basierte Robotik‑Steuerungen**  
 - **KI‑Module unter Windows + Python**  
 - **lokale KI‑Modelle (GGUF, PyTorch, ONNX)**  
 - **ROS‑1 / ROS‑2 kompatible KI‑Pipelines**  
 - **Sensor‑Fusion‑Systeme**  
 - **autonome Geräte und Industrie‑Roboter**
-
 Die KI‑Analyse erfolgt lokal über:
-
 - Python‑basierte KI‑Backends  
 - lokale Modelle  
 - lokale Runtime  
 - lokale Heuristik  
 - lokale Prozess‑ und Netzwerk‑Analyse  
-
 Keine Daten verlassen das Gerät.
 
 ## **Warum diese Offline‑Versionen für Robotik perfekt sind**
-
 ### ✔ **Keine Datenbank → keine externen Abhängigkeiten**  
 Alle Entscheidungen werden lokal getroffen.  
 Keine Cloud, keine Telemetrie, keine Server‑Abfragen.
-
 ### ✔ **Lizenz pro Gerät → maximale Sicherheit**  
 Jede Robotik‑Einheit ist eindeutig lizenziert.  
 Kopieren oder Weitergeben ist technisch blockiert.
-
 ### ✔ **Windows + Python KI‑Runtime**  
 Viele Robotik‑Labore nutzen Windows‑Steuerrechner mit Python‑KI‑Modulen.  
 Z9D‑CSS integriert sich nahtlos in diese Umgebung.
 
 ### ✔ **ROS‑Konformität**  
 Die Offline‑Versionen erfüllen die Anforderungen typischer ROS‑Systeme:
-
 - deterministische lokale Ausführung  
 - keine externen Datenflüsse  
 - keine Cloud‑Abhängigkeit  
 - lokale KI‑Analyse  
 - lokale Prozess‑Überwachung  
 - lokale Sensor‑Datenprüfung  
-
 ### ✔ **Ideal für Forschung, Industrie und Behörden**  
 Perfekt für:
-
 - Universitäten  
 - Robotik‑Labore  
 - Industrie‑Roboter  
@@ -1153,11 +1129,10 @@ Perfekt für:
 - staatliche Einrichtungen  
 
 ## **Zusammenfassung**
-
 **Die Offline‑Robotik‑Editionen von Z9D‑CSS sind vollständig lokale KI‑EDR‑Systeme ohne Datenbank, ohne Cloud und ohne Telemetrie.  
 Jede Einheit wird über einen individuellen Lizenzschlüssel aktiviert und bleibt strikt an die Geräte‑Nummer und das Betriebssystem gebunden.  
 Damit sind diese Versionen ideal für Robotik‑Systeme, die maximale Sicherheit, Offline‑Betrieb und ROS‑Konformität benötigen.**
-
+***************************************************************************
 
 # Z9D-CSS_SRS
 # 🟩 **SRS – Secure‑Robotic‑System (Robotik‑Sicherheitslinie)**  
@@ -1312,6 +1287,95 @@ Industrie‑Robotik, Produktionslinien, autonome Fertigungsanlagen, kritische In
 **Beschreibung:**  
 SRS 6.0 ist die **Elite‑Version** für industrielle Robotiksysteme und kritische Infrastruktur.  
 Sie kombiniert KI‑EDR, Offline‑Heuristik, Multi‑Layer‑Security und Sensor‑Fusion zu einem vollständigen Sicherheitskern.
+
+🛡️ SRS v6.3 – Industrie‑Cluster + KRITIS‑Lizenzierung
+Erweiterte Sicherheitsedition für industrielle Robotik, Produktionslinien, Fertigungscluster und kritische Infrastruktur (KRITIS).
+Die Version SRS v6.3 ist die fortgeschrittene Industrie‑Edition des Secure‑Robotic‑Systems.
+Sie erweitert die KI‑EDR‑Engine und Funk‑Sicherheitslogik aus SRS v5.3 um zusätzliche Funktionen für industrielle Fertigungsumgebungen, Robotik‑Cluster und sicherheitskritische Anlagen.
+🏭 Industrie‑Cluster‑Security (Cluster‑EDR)
+SRS v6.3 überwacht und schützt komplette Robotik‑Cluster:
+Fertigungszellen
+Produktionslinien
+Montage‑Cluster
+CNC‑Robotergruppen
+Pick‑&‑Place‑Cluster
+Reinraum‑Robotik
+autonome Industrie‑Einheiten
+Die KI‑Engine analysiert:
+Cluster‑Kommunikation
+interne Netzwerkpfade
+Prozess‑Graphen
+Sensor‑Fusion‑Daten
+Anomalien zwischen Robotereinheiten
+Funk‑/Wireless‑Signale innerhalb des Clusters
+Damit erkennt SRS v6.3 Bedrohungen nicht nur pro Gerät, sondern über ganze Robotik‑Cluster hinweg.
+🛡️ KRITIS‑Lizenzierung (kritische Infrastruktur)
+Für Betreiber kritischer Infrastruktur bietet SRS v6.3 eine spezielle KRITIS‑Lizenz:
+erweiterte KI‑EDR‑Analyse
+Zero‑Telemetry (vollständig offline)
+erweiterte Funk‑Sperrlogik
+Notfall‑Lockdown‑Modus
+Cluster‑Isolation
+Prozess‑Kill‑Modus für Industrie‑Robotik
+OEM‑KRITIS‑Profile
+signierte KRITIS‑Lizenzschlüssel
+Geräte‑ID‑gebundene Aktivierung
+Serien‑ und Cluster‑Lizenzpakete (5000 / 10000 Einheiten)
+Diese Lizenz ist speziell für:
+Energieversorger
+Fertigungsanlagen
+Telekom‑Core
+Transport‑/Logistik‑Cluster
+medizinische Robotik
+sicherheitskritische Produktionslinien
+🤖 Erweiterte KI‑EDR‑Engine (Industrie‑Modus)
+SRS v6.3 nutzt die KI‑Engine aus SRS v5.3 und erweitert sie um:
+Industrie‑Prozessgraphen
+Cluster‑Threat‑Scoring
+Multi‑Robot‑Anomalie‑Erkennung
+KI‑Auto‑Kill für Fertigungszellen
+KI‑Auto‑Block für Produktionslinien
+Sensor‑Fusion für Industrie‑Robotik
+Funk‑EDR für Industrie‑Funkmodule (ZigBee, LoRa, 433/868 MHz)
+Damit ist SRS v6.3 die Elite‑Version für industrielle Robotik.
+📡 Industrie‑Funk‑Security
+Zusätzlich zu Bluetooth, IR, RF, WLAN und Hotspot unterstützt SRS v6.3:
+ZigBee‑Industriefunk
+LoRa‑Module
+433 MHz / 868 MHz Industrie‑Fernsteuerungen
+Produktions‑WLAN‑Zellen
+Funk‑Not‑Aus‑Sender
+Cluster‑Funkkommunikation
+Nicht freigegebene Funkwege werden automatisch blockiert oder isoliert.
+🔐 Industrie‑OEM‑Profile
+SRS v6.3 enthält OEM‑Profile für:
+Schweiß‑Roboter
+Lackier‑Roboter
+CNC‑Roboter
+Pick‑&‑Place‑Systeme
+Reinraum‑Robotik
+Montage‑Robotik
+Hochsicherheits‑Robotik (KRITIS)
+Fertigungszellen
+autonome Industrie‑Einheiten
+Jedes Profil definiert:
+erlaubte Funkwege
+erlaubte KI‑Modi
+erlaubte Autonomie‑Level
+Cluster‑Verhalten
+Sicherheitsrichtlinien
+
+🧩 Zusammenfassung
+SRS v6.3 ist die fortgeschrittene Industrie‑Edition des Secure‑Robotic‑Systems und bietet:
+KI‑gestützte Cluster‑Security
+KRITIS‑Lizenzierung
+Industrie‑Funk‑EDR
+OEM‑Industrieprofile
+Zero‑Telemetry
+Offline‑KI‑EDR
+Geräte‑ID‑gebundene Aktivierung
+Serien‑ und Cluster‑Lizenzpakete
+Damit ist SRS v6.3 die höchste Sicherheitsstufe für industrielle Robotik und kritische Infrastruktur.
 
 # 🔑 **Lizenzierung (alle SRS‑Versionen)**  
 - Jede Robotereinheit erhält einen **eindeutigen Lizenzschlüssel**  
