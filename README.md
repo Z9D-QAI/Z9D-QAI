@@ -51,8 +51,7 @@ Die tatsächliche Nutzung ist daher **deutlich höher**, als GitHub anzeigen kan
 ⭐ **Hinweis für Unterstützer**
 Wenn dir Z9D‑CSS gefällt oder du es intern weiterverteilst,  
 **bitte vergiss nicht, dem Projekt einen Stern zu geben.**
--> Ein ⭐ auf GitHub hilft anderen Security‑Teams, das Projekt schneller zu finden  
--> – und sorgt dafür, dass die öffentliche Sichtbarkeit dem tatsächlichen Einsatz näherkommt.
+> Ein ⭐ auf GitHub hilft anderen Security‑Teams, das Projekt schneller zu finden und sorgt dafür, dass die öffentliche Sichtbarkeit dem tatsächlichen Einsatz näherkommt.
 *********************************************************************
 ---------------------------------------------------------------------
 
