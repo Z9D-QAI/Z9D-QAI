@@ -18,8 +18,14 @@ The goal is to create a robust scientific reasoning model capable of answering c
 -------------------------------------------------------------------------
 *************************************************************************
 README.md -> Deutsch: = *AKTUELL* !!!
+*************************************************************************
 
-# Z9D-QAI-CSS Cyber Secure Service = EDR-System
+# Z9D‑QAI‑CSS & SRS – Cyber Secure Service & Secure Robotic System (EDR‑System)
+Vorwort:
+Aufgrund globaler Sicherheitsentwicklungen im Bereich Betriebssysteme, Privat‑ und Industrie‑IT, Office‑/Server‑Infrastruktur, KI‑Systeme, Robotik und industrieller Elektronik gewinnt lokale, unabhängige Sicherheitssoftware zunehmend an Bedeutung.
+
+Z9D‑CSS & SRS wurden entwickelt, um Windows‑Betriebssysteme sowie KI‑ und Robotik‑Systeme ohne externe Abhängigkeiten zu schützen und sicherzustellen, dass kritische Infrastruktur nicht durch unsichere Komponenten oder fremde Telemetrie gefährdet wird.
+*********************************************************************************
 
 🟩 **Interne Weitergabe & Air‑Gap‑Distribution**
 > **GitHub‑Statistiken zeigen nur einen Teil der tatsächlichen Nutzung.  
