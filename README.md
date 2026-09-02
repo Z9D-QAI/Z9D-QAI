@@ -1390,7 +1390,37 @@ Damit ist SRS v6.3 die höchste Sicherheitsstufe für industrielle Robotik und k
 - Interne Weitergabe ist technisch blockiert  
 - Lizenzschlüssel werden über den **SRS‑Lizenzschlüssel‑Generator** erstellt  
 - Ausgabe erfolgt gemäß **Auftragsbestellungen** der Robotikunternehmen
+
+Aktivierungs‑Hinweis (steht vor und nach jeder Freigabe)
+Aktivierungsprozess:  
+Jede SRS‑Lizenz wird ausschließlich nach einer Freigabeanfrage und anschließender Bestätigung aktiviert.
+Der Nutzer/Auftraggeber erhält automatisch eine Benachrichtigung über den Status der Aktivierung (Anfrage eingegangen → Zahlung erforderlich → Zahlung bestätigt → Lizenz freigegeben).
+Manuelle Sicherheitsprüfung:  
+Vor jeder Freigabe erfolgt eine interne Sicherheitsprüfung.
+Dabei werden IP‑Adresse, Länderkennung, ASN, Provider und Organisation geprüft.
+Nur nach erfolgreicher Prüfung wird die Lizenz zur Aktivierung freigegeben.
+Missbrauchsschutz / GeoIP‑Sperrlogik:  
+Falls Hinweise auf Missbrauch, Raubkopien, Nachahmungen, Trojaner‑Verteilung oder unbefugte Weitergabe auftreten — egal ob durch Einzelpersonen, Organisationen oder staatliche Stellen — kann die Aktivierung sofort verweigert oder widerrufen werden.
+Verdächtige Länder, Provider, ASNs oder Organisationen werden temporär oder dauerhaft gesperrt, bis der Missbrauch beendet ist oder die zuständigen Behörden entsprechende Maßnahmen ergreifen.
+Hinweis:  
+Diese Sicherheitsmaßnahmen dienen dem Schutz der Z9D‑CSS & Z9D‑SRS Systeme und verhindern, dass die Software in kriminellen, feindlichen oder sicherheitskritischen Kontexten missbraucht wird.
+Wichtig:
+Hinweis zur internationalen Nutzung
+Systeme, Geräte oder Softwareprodukte, die nicht die originale Z9D‑SRS Sicherheitsarchitektur enthalten, können im internationalen Handelsraum, EWR‑Bereich oder in sicherheitskritischen Märkten eingeschränkt oder vollständig gesperrt werden.
+Dies betrifft insbesondere Nachahmungen, Raubkopien, manipulierte Versionen oder nicht autorisierte Ableitungen der Z9D‑CSS/SRS Systeme.
+Die Sperrung erfolgt über GeoIP‑, ASN‑ und Provider‑basierte Sicherheitsmechanismen, um Missbrauch, Trojaner‑Verteilung und unbefugte Weitergabe zu verhindern!
+
+⚠️ Haftungsausschluss (einheitlich für alle Produkte)
+Der Anbieter Z9D•QAI übernimmt keine Garantie oder Gewährleistung für Schäden, Fehlfunktionen oder Beeinträchtigungen, die durch Hackerangriffe, Schadsoftware, unerwünschte Software, externe Entwickler, Manipulationen oder sonstige Eingriffe Dritter entstehen.
+Der Auftraggeber und Benutzer ist selbst verantwortlich für die Sicherheit seiner IT‑Infrastruktur, einschließlich Betriebssystem, Netzwerk, Benutzerkonten und physischem Zugriff.
+Z9D•QAI haftet nicht für bestehende oder zukünftige Angriffsmethoden, Softwareentwicklungen oder Sicherheitslücken außerhalb seines Einflussbereichs.
+Die Bereitstellung der Z9D•QAI Software, KI‑Module, Lizenzen und Subventionen erfolgt als private Entwicklungs‑, Forschungs‑, Ingenieurs‑ und Architekturleistung in einer experimentellen Umgebung.
+Es handelt sich nicht um serienreife Handelsware.
+Jede Zahlung gilt als freiwillige Spende zur Unterstützung der Weiterentwicklung der Z9D‑CSS Sicherheitssoftware und der Z9D•QAI QAGI/AGI/AI‑Entwicklungsumgebung sowie der Hardwareressourcen.
+Die Aktivierung von Lizenzen erfolgt ausschließlich nach individueller Prüfung und Freigabe durch den Anbieter. Bei Verdacht auf Missbrauch, Raubkopien, unerlaubte Weitergabe, Trojaner‑Verteilung oder staatlich/organisatorisch motivierte Nachahmung können Lizenzen verweigert, widerrufen oder GeoIP‑basiert blockiert werden.
+
 ================================================================================
+
 # *Ich arbeite noch an den Z9D-CSS_SRS Versionen, - Diese werden nächstens auch verfügbar sein!!!*
 Die nächste Generation der Z9D‑CSS_SRS Robotik‑Security‑Versionen befindet sich in der finalen Entwicklungsphase.
 Neue SRS‑Versionen werden demnächst veröffentlicht und stehen dann für Robotik‑Hersteller, OEM‑Partner und autonome Systeme bereit.
