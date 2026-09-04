@@ -1425,7 +1425,7 @@ Die Aktivierung von Lizenzen erfolgt ausschließlich nach individueller Prüfung
 https://github.com/Z9D-QAI/Z9D-QAI-CSS-Cyber-Secure-Service/blob/main/Z9D-CSS-v5.3-PRO-SRS-EXE.zip
 ================================================================================
 
-# *Ich arbeite noch an den Z9D-CSS_SRS Versionen, - Diese werden nächstens auch verfügbar sein!!!*
+# *Ich arbeite noch an den neuesten Z9D-CSS-SRS Versionen Z9D-SRS-v6.3-Elite, diese werden nächstens verfügbar sein!*
 Die nächste Generation der Z9D‑CSS_SRS Robotik‑Security‑Versionen befindet sich in der finalen Entwicklungsphase.
 Neue SRS‑Versionen werden demnächst veröffentlicht und stehen dann für Robotik‑Hersteller, OEM‑Partner und autonome Systeme bereit.
 > Hinweis:  
