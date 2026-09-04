@@ -1,6 +1,8 @@
 # Z9D•QAI - Scientific AI Research
 # Z9D-QAI – Scientific AI Researc
 # Z9D.QAI - Scientific AI Research
+# Z9D-CSS - Cyber Secure Service
+# Z9D-SRS - Secure Robotic System
 
 Welcome to the Z9D•QAI - Z9D-QAI - Z9D.QAI project.
 This is an independent research initiative focused on building high‑quality scientific AI systems, including:
@@ -1419,6 +1421,8 @@ Es handelt sich nicht um serienreife Handelsware.
 Jede Zahlung gilt als freiwillige Spende zur Unterstützung der Weiterentwicklung der Z9D‑CSS Sicherheitssoftware und der Z9D•QAI QAGI/AGI/AI‑Entwicklungsumgebung sowie der Hardwareressourcen.
 Die Aktivierung von Lizenzen erfolgt ausschließlich nach individueller Prüfung und Freigabe durch den Anbieter. Bei Verdacht auf Missbrauch, Raubkopien, unerlaubte Weitergabe, Trojaner‑Verteilung oder staatlich/organisatorisch motivierte Nachahmung können Lizenzen verweigert, widerrufen oder GeoIP‑basiert blockiert werden.
 
+# DOWNLOAD Z9D-SRS-v5.3-PRO: 
+https://github.com/Z9D-QAI/Z9D-QAI-CSS-Cyber-Secure-Service/blob/main/Z9D-CSS-v5.3-PRO-SRS-EXE.zip
 ================================================================================
 
 # *Ich arbeite noch an den Z9D-CSS_SRS Versionen, - Diese werden nächstens auch verfügbar sein!!!*
