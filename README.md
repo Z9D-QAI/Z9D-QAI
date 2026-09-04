@@ -3,6 +3,7 @@
 # Z9D.QAI - Scientific AI Research
 # Z9D-CSS - Cyber Secure Service
 # Z9D-SRS - Secure Robotic System
+README.md -> Deutsch: = AKTUELL !!!
 
 Welcome to the Z9D•QAI - Z9D-QAI - Z9D.QAI project.
 This is an independent research initiative focused on building high‑quality scientific AI systems, including:
