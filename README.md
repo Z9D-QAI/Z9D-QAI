@@ -32,7 +32,7 @@ Aufgrund globaler Sicherheitsentwicklungen im Bereich Betriebssysteme, Privat‑
 
 Z9D‑CSS & SRS wurden entwickelt, um Windows‑Betriebssysteme sowie KI‑ und Robotik‑Systeme ohne externe Abhängigkeiten zu schützen und sicherzustellen, dass kritische Infrastruktur nicht durch unsichere Komponenten oder fremde Telemetrie gefährdet wird.
 *********************************************************************************
-
+*********************************************************************************
 🟩 **Interne Weitergabe & Air‑Gap‑Distribution**
 > **GitHub‑Statistiken zeigen nur einen Teil der tatsächlichen Nutzung.  
 > In sicherheitskritischen Bereichen werden Tools wie Z9D‑CSS häufig intern weiterverteilt – außerhalb der Sichtbarkeit von GitHub.**
@@ -1436,6 +1436,15 @@ Neue SRS‑Versionen werden demnächst veröffentlicht und stehen dann für Robo
 Die neuen Z9D‑CSS_SRS Versionen (SRS v5.3 PRO und SRS v6.x) befinden sich aktuell in aktiver Entwicklung.
 Sobald die finalen Builds abgeschlossen sind, werden diese Versionen hier veröffentlicht und für Robotik‑Hersteller verfügbar gemacht.
 ********************************************************************************
+## Hinweis zur Z9D-SRS v6.3 Elite Linie
+Die **Z9D-SRS v6.3 Elite – Secure Robotic System EDR** wird als eigenständige Speziallinie getrennt von der allgemeinen Z9D-CSS-Struktur geführt.
+Der Grund dafür ist, dass diese Version nicht für normale Standardnutzer gedacht ist, sondern gezielt für:
+- Robotiksysteme
+- OEM-Hersteller
+- Leitstellen und Mehrsystemumgebungen
+- Civil-, Military- und Dual-Use-Szenarien
+- gekoppelte, ferngesteuerte, autonome und KI-gestützte Systeme
+Dadurch bleiben die allgemeine CSS-Linie und die spezialisierte SRS-v6.3-Elite-Linie technisch, organisatorisch und inhaltlich klar getrennt.
 ================================================================================
 
 # Z9D‑CSS v6.0 PRO_Elite ist ein vollständig lokales KI‑EDR‑System, das moderne Cloud‑EDR‑Plattformen technologisch überholt und nach der Aktivierung vollständig offline betrieben werden kann — inklusive ROS‑konformer KI‑Analyse für Robotik‑ und Sensor‑Systeme.
