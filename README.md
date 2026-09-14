@@ -40,7 +40,7 @@ Zielgruppe: Datenschutzsensible Unternehmen, isolierte Netzwerke (Air-Gapped-Sys
 2. Z9D-SRS (Secure-Robotic-System)
 Der Grund für den Einsatz von Z9D-SRS ist der Schutz physischer Automatisierungs- und Steuerungssysteme sowie die Durchsetzung strikter Lizenz- und Missbrauchskontrollen.  
 Physische & Industrielle Sicherheit: Es fungiert als erweiterte Schutzplattform für Industriehardware, Steuerungssensorik und Quarantäne-Module. 
-Strikte Zugriffskontrolle: Lizenzen werden manuell geprüft und sind an strenge GeoIP- sowie Provider-/ASN-Sperrlogiken gebunden, um Missbrauch, Manipulationen oder den Einsatz von Raubkopien im EWR-Raum und in kritischen Märkten zu verhindern. 
+Strikte Zugriffskontrolle: Lizenzen werden manuell geprüft und sind an strenge GeoIP- sowie Provider-/ASN-Sperrlogiken gebunden, um Missbrauch, Manipulationen oder den Einsatz von Raubkopien - weltweit, wie auch im EWR-Raum und in kritischen Märkten zu verhindern. 
 Zielgruppe: Industrie 4.0, zivile kritische Infrastrukturen (KRITIS) sowie komplexe Steuerungssysteme in der Logistik, Luft- und Raumfahrt.
 *********************************************************************************
 Wenn man KI, Robotik und spätere bionische Entwicklungen nicht nur als Werkzeuge, sondern als etwas mit langfristiger Bedeutung betrachtet, dann braucht es von Anfang an:
