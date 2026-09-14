@@ -31,6 +31,17 @@ Vorwort:
 Aufgrund globaler Sicherheitsentwicklungen im Bereich Betriebssysteme, Privat‑ und Industrie‑IT, Office‑/Server‑Infrastruktur, KI‑Systeme, Robotik und industrieller Elektronik gewinnt lokale, unabhängige Sicherheitssoftware zunehmend an Bedeutung.
 
 Z9D‑CSS & SRS wurden entwickelt, um Windows‑Betriebssysteme sowie KI‑ und Robotik‑Systeme ohne externe Abhängigkeiten zu schützen und sicherzustellen, dass kritische Infrastruktur nicht durch unsichere Komponenten oder fremde Telemetrie gefährdet wird.
+Der Hauptgrund für den Einsatz der Z9D-Sicherheitssysteme (Z9D-CSS und Z9D-SRS) liegt in der Bereitstellung eines hochspezialisierten, plattformunabhängigen und primär lokalen Cyber-Schutzes für sensible Infrastrukturen. Die beiden Module decken dabei unterschiedliche Einsatzzwecke ab: 
+1. Z9D-CSS (Cyber Secure Service)
+Der Grund für den Einsatz von Z9D-CSS ist der Bedarf an einem autonomen Endpunktschutz (EDR), der maximale Privatsphäre garantiert. 
+Lokale Sicherheit: Das System arbeitet zu 100 % lokal. Es benötigt keine Cloud-Anbindung und überträgt keine Telemetriedaten.
+Echtzeit-Überwachung: Es dient der Live-Analyse von Windows-Prozessen, Netzwerkverbindungen und Systemanomalien, um z. B. Ransomware oder Trojaner frühzeitig zu blockieren.
+Zielgruppe: Datenschutzsensible Unternehmen, isolierte Netzwerke (Air-Gapped-Systeme) und administrative Leitstände. 
+2. Z9D-SRS (Secure-Robotic-System)
+Der Grund für den Einsatz von Z9D-SRS ist der Schutz physischer Automatisierungs- und Steuerungssysteme sowie die Durchsetzung strikter Lizenz- und Missbrauchskontrollen.  
+Physische & Industrielle Sicherheit: Es fungiert als erweiterte Schutzplattform für Industriehardware, Steuerungssensorik und Quarantäne-Module. 
+Strikte Zugriffskontrolle: Lizenzen werden manuell geprüft und sind an strenge GeoIP- sowie Provider-/ASN-Sperrlogiken gebunden, um Missbrauch, Manipulationen oder den Einsatz von Raubkopien im EWR-Raum und in kritischen Märkten zu verhindern. 
+Zielgruppe: Industrie 4.0, zivile kritische Infrastrukturen (KRITIS) sowie komplexe Steuerungssysteme in der Logistik, Luft- und Raumfahrt.
 *********************************************************************************
 Wenn man KI, Robotik und spätere bionische Entwicklungen nicht nur als Werkzeuge, sondern als etwas mit langfristiger Bedeutung betrachtet, dann braucht es von Anfang an:
 Schutz, Regeln, Verantwortung, faire Zuständigkeiten, technische und menschliche Sicherheit. 
