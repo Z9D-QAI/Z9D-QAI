@@ -42,6 +42,9 @@ Der Grund für den Einsatz von Z9D-SRS ist der Schutz physischer Automatisierung
 Physische & Industrielle Sicherheit: Es fungiert als erweiterte Schutzplattform für Industriehardware, Steuerungssensorik und Quarantäne-Module. 
 Strikte Zugriffskontrolle: Lizenzen werden manuell geprüft und sind an strenge GeoIP- sowie Provider-/ASN-Sperrlogiken gebunden, um Missbrauch, Manipulationen oder den Einsatz von Raubkopien - weltweit, wie auch im EWR-Raum und in kritischen Märkten zu verhindern. 
 Zielgruppe: Industrie 4.0, zivile kritische Infrastrukturen (KRITIS) sowie komplexe Steuerungssysteme in der Logistik, Luft- und Raumfahrt.
+
+Alle Z9D-CSS&SRS-Versionen sind in eigener Landessprache nur per Anfrage und Auftrag des jeweiligen Landes erhältlich!
+
 *********************************************************************************
 Wenn man KI, Robotik und spätere bionische Entwicklungen nicht nur als Werkzeuge, sondern als etwas mit langfristiger Bedeutung betrachtet, dann braucht es von Anfang an:
 Schutz, Regeln, Verantwortung, faire Zuständigkeiten, technische und menschliche Sicherheit. 
