@@ -50,6 +50,23 @@ Wenn man KI, Robotik und spätere bionische Entwicklungen nicht nur als Werkzeug
 Schutz, Regeln, Verantwortung, faire Zuständigkeiten, technische und menschliche Sicherheit. 
 Genau darum ist Z9D-QAI-CSS/SRS sinnvoll: nicht nur für Kontrolle um der Kontrolle willen, sondern damit Fortschritt stabil, sicher und ohne Zerstörung aufgebaut werden kann. Technologie braucht Ordnung, wenn sie Zukunft tragen soll.
 *********************************************************************************
+
+| **Version** | **Geeignete Branchen** | **Typische Nutzer** | **Einsatzbereich** |
+| --- | --- | --- | --- |
+| **CSS v5.0 FREE** | Privat, kleine Firmen, Home‑Office, IT‑Grundschutz | Einsteiger, private Nutzer, kleine Unternehmen, einfache IT‑Admins | Basis‑Prozesskontrolle, Log‑Analyse, einfache Sicherheitschecks |
+| **CSS v5.0 PRO** | KMU, IT‑Dienstleister, Security‑Teams, Technik‑Abteilungen | Fortgeschrittene Nutzer, IT‑Techniker, Support‑Mitarbeiter, kleine SOC‑Teams | Erweiterte Analyse, Prozess‑/Netzwerküberwachung, Systemschutz, professionelle Log‑Auswertung |
+| **CSS v6.0 PRO ELITE** | Industrie, Robotik, Automation, Aerospace, Forschung, Behörden, kritische Infrastruktur | Experten, Entwickler, Security‑Analysten, Robotik‑Ingenieure, Missions‑/C2‑Operatoren | Multi‑Domain‑Security, Robotik‑/Aerospace‑Integration, komplexe Analyse, externe Tools, Missions‑/C2‑Kontrolle |
+
+CSS v5.0 FREE
+Für alle, die eine einfache, sichere und kostenlose Lösung zur Prozesskontrolle und Log‑Analyse benötigen.
+
+CSS v5.0 PRO
+Für professionelle Anwender, die mehr Schutz, mehr Analyse und mehr Funktionen brauchen, aber keine komplexen Multi‑Domain‑Systeme einsetzen.
+
+CSS v6.0 PRO ELITE
+Für High‑End‑Anwender in Robotik, Industrie, Aerospace, Forschung, Automatisierung und kritischen Systemen, die maximale Kontrolle und Analyse benötigen.
+=======================================================================================
+
 🟩 **Interne Weitergabe & Air‑Gap‑Distribution**
 > **GitHub‑Statistiken zeigen nur einen Teil der tatsächlichen Nutzung.  
 > In sicherheitskritischen Bereichen werden Tools wie Z9D‑CSS häufig intern weiterverteilt – außerhalb der Sichtbarkeit von GitHub.**
