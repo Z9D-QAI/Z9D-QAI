@@ -65,8 +65,53 @@ Für professionelle Anwender, die mehr Schutz, mehr Analyse und mehr Funktionen 
 
 CSS v6.0 PRO ELITE
 Für High‑End‑Anwender in Robotik, Industrie, Aerospace, Forschung, Automatisierung und kritischen Systemen, die maximale Kontrolle und Analyse benötigen.
-=======================================================================================
+==============================================================================
 
+| **SRS‑Version** | **Geeignete Einsatzdomänen** | **Branchen** | **Typische Nutzer** | **Einsatzbereich** |
+| --- | --- | --- | --- | --- |
+| **SRS v5.3 PRO** | Land, Luft, Maritime, Unterwasser | Industrie, Robotik, Automation, Zivil | Techniker, Robotik‑Integratoren, Sicherheits‑Teams, Forschungs‑Labore | Roboter‑Sicherheit, Funk‑/Kommunikationsanalyse, KI‑Heuristik, Offline‑/Air‑Gap‑Security |
+| **SRS v6.3 ELITE** | Land, Luft, Maritime, Unterwasser, Raumfahrt, Orbital, Lunar, Planetary | Industrie, Robotik, Aerospace, Forschung, kritische Infrastruktur, Zivil & Militär | Experten, Missions‑Operatoren, C2‑Teams, Robotik‑Ingenieure, Aerospace‑Analysten | Multi‑Domain‑Security, Missions‑/C2‑Kontrolle, Orbital‑/Planetary‑Integration, Habitat‑/Stations‑Modelle, Raketen‑/Launch‑Vehicle‑Kopplung |
+
+SRS v5.3 PRO
+Für professionelle Anwender in:
+Industrie
+Robotik
+Automatisierung
+zivile Technik
+Forschung
+Mit Fokus auf:
+KI‑Heuristik
+Funk‑/Kommunikationsschutz
+Offline‑Security
+Roboter‑/Geräte‑Analyse
+Bluetooth‑/WiFi‑Security
+Prozess‑/Netzwerk‑Analyse
+
+SRS v6.3 ELITE
+Für High‑End‑Anwender in:
+Robotik
+Industrie
+Aerospace
+Raumfahrt
+Forschung
+kritischer Infrastruktur
+zivilen und militärischen Multi‑Domain‑Systemen
+Mit Fokus auf:
+Multi‑Domain‑Mission‑Control
+Orbital‑/Lunar‑/Planetary‑Integration
+Raketen‑/Launch‑Vehicle‑Modelle
+Habitat‑/Stations‑Systeme
+Satelliten‑/Raumgleiter‑Kopplung
+erweiterte Kommunikationsanalyse (Optical, SatCom, Acoustic)
+komplexe Rollen‑/Profil‑Matrix
+externe Analyse‑Tools (Wireshark, Burp Suite, CrowdStrike, SentinelOne usw.)
+
+🟩 Die Tabelle zeigt klar:
+
+SRS v5.3 PRO → für Industrie, Robotik, Ziviltechnik
+
+SRS v6.3 ELITE → für Robotik, Industrie, Raumfahrt, Forschung, kritische Infrastruktur, Zivil & Militär
+==============================================================================
 🟩 **Interne Weitergabe & Air‑Gap‑Distribution**
 > **GitHub‑Statistiken zeigen nur einen Teil der tatsächlichen Nutzung.  
 > In sicherheitskritischen Bereichen werden Tools wie Z9D‑CSS häufig intern weiterverteilt – außerhalb der Sichtbarkeit von GitHub.**
