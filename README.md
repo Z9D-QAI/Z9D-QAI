@@ -5,6 +5,7 @@
 # Z9D-SRS - Secure Robotic System
 # **Offizielle Web-Präsentation:** https://z9d-qai.com
 https://z9d-qai.com/
+
 README.md -> Deutsch: = AKTUELL !!!
 
 Welcome to the Z9D•QAI - Z9D-QAI - Z9D.QAI project. - https://z9d-qai.com/
