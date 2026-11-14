@@ -1717,3 +1717,6 @@ Hyper-Quantum Math AGI για πολύπλοκους μαθηματικούς κ
 προσωπική εμπειρία στην τεχνολογία, την επιστήμη και την αρχιτεκτονική συστημάτων
 Ως εκ τούτου, το Z9D-QAI αποτελεί παράδειγμα πλήρως αυτοχρηματοδοτούμενου έργου υπερπροηγμένης τεχνολογίας που δημιουργήθηκε χωρίς εξωτερική χρηματοδότηση και, ωστόσο, προσφέρει ευρεία τεχνική βάση — από την τεχνητή νοημοσύνη τελικού σημείου έως τη σύντηξη αισθητήρων, τα συστήματα ρομποτικής και την επιστημονική τεχνητή νοημοσύνη έως τις ενότητες ασφάλειας και ανάλυσης.
 
+### © Lizenz & Urheberrecht
+**© 2026 Dr.MaS Zoran Ljubic – Z9D-QAI / Matrixworld.at. Alle Rechte vorbehalten (All Rights Reserved).**  
+Details zur exklusiven Nutzung und zum Schutz des geistigen Eigentums finden sich in der Datei [`LICENSE`](https://github.com/Z9D-QAI/Matrixworld/blob/main/LICENSE).
