@@ -3351,3 +3351,7 @@ Haftungsausschluss / Keine Garantie oder Gewährleistungen:
 Der Anbieter Z9D•QAI übernimmt keine Garantie oder Gewährleistung für Schäden, Fehlfunktionen oder Beeinträchtigungen, auch die durch Hackerangriffe, Schadsoftware, unerwünschte Software, externe Entwickler, Manipulationen oder sonstige Eingriffe Dritter entstehen. Der Auftragsgeber ist verantwortlich für die Sicherheit seiner eigenen IT‑Infrastruktur, einschließlich Betriebssystem, Netzwerk, Benutzerkonten und physischem Zugriff. Der Anbieter Z9D•QAI haftet nicht für bestehende und neue oder zukünftige Angriffsmethoden, Softwareentwicklungen oder Sicherheitslücken, die außerhalb seines Einflussbereichs liegen.
 Die Kosten für die öffentliche Bereitstellung der Z9D•QAI Software, KI‑Module, Lizenzen und Subventionen sind als Leistungen aus privater Entwicklungs‑, Forschungs‑, Ingenieurs‑ und Architekturarbeit in einer experimentellen Umgebung zu betrachten. Es handelt sich nicht um serienreife Massenprodukte, sondern um individuelle, projektbezogene Entwicklungsleistungen. Eine Produktgarantie im Sinne fertiger Handelsware besteht nicht. 
 # Hinweis: Jede Zahlung gilt als freiwillige Spende zur Unterstützung der Weiterentwicklung der Z9D-CSS Sicherheitssoftware und Z9D•QAI QAGI/AGI/AI Entwicklungsumgebung u. Hardwareressourcen.
+
+### © Lizenz & Urheberrecht
+**© 2026 Dr.MaS Zoran Ljubic – Z9D-QAI / Matrixworld.at. Alle Rechte vorbehalten (All Rights Reserved).**  
+Details zur exklusiven Nutzung und zum Schutz des geistigen Eigentums finden sich in der Datei [`LICENSE`](./LICENSE).
