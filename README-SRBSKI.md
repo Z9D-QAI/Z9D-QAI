@@ -1717,3 +1717,6 @@ Nezavisni razvoj AI modela
 lično iskustvo u tehnologiji, nauci i arhitekturi sistema
 Z9D-QAI je tako primer potpuno samopodržanog deep-tech projekta koji je stvoren bez spoljnog finansiranja, a ipak nudi široku tehničku osnovu – od krajnjih tačaka AI do fuzije senzora, robotskih sistema i naučne AI do modula za bezbednost i analizu.
 
+### © Lizenz & Urheberrecht
+**© 2026 Dr.MaS Zoran Ljubic – Z9D-QAI / Matrixworld.at. Alle Rechte vorbehalten (All Rights Reserved).**  
+Details zur exklusiven Nutzung und zum Schutz des geistigen Eigentums finden sich in der Datei [`LICENSE`](https://github.com/Z9D-QAI/Matrixworld/blob/main/LICENSE).
