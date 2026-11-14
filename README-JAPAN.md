@@ -1717,3 +1717,6 @@ Z9D-QAIはDr.MaS.ゾラン・リュビッチによる完全に独立した研究
 技術、科学、システムアーキテクチャにおける個人的な経験
 したがって、Z9D-QAIは外部資金なしで作られた完全に自立型のディープテックプロジェクトの一例であり、エンドポイントAIからセンサー融合、ロボティクスシステム、科学AI、セキュリティや分析モジュールに至るまで幅広い技術的基盤を提供しています。
 
+### © Lizenz & Urheberrecht
+**© 2026 Dr.MaS Zoran Ljubic – Z9D-QAI / Matrixworld.at. Alle Rechte vorbehalten (All Rights Reserved).**  
+Details zur exklusiven Nutzung und zum Schutz des geistigen Eigentums finden sich in der Datei [`LICENSE`](https://github.com/Z9D-QAI/Matrixworld/blob/main/LICENSE).
