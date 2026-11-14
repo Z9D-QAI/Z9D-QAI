@@ -1717,3 +1717,6 @@ Sviluppo indipendente di modelli di IA
 Esperienza personale in tecnologia, scienza e architettura dei sistemi
 Z9D-QAI è quindi un esempio di progetto deep-tech completamente autosostenuto, creato senza finanziamenti esterni e che offre comunque una base tecnica ampia – dall'IA endpoint alla fusione dei sensori, dai sistemi robotici e dall'IA scientifica ai moduli di sicurezza e analisi.
 
+### © Lizenz & Urheberrecht
+**© 2026 Dr.MaS Zoran Ljubic – Z9D-QAI / Matrixworld.at. Alle Rechte vorbehalten (All Rights Reserved).**  
+Details zur exklusiven Nutzung und zum Schutz des geistigen Eigentums finden sich in der Datei [`LICENSE`](https://github.com/Z9D-QAI/Matrixworld/blob/main/LICENSE).
