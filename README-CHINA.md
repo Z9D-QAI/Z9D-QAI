@@ -1717,3 +1717,6 @@ Z9D-QAI 是 Dr. MaS. Zoran Ljubić 完全独立的研发项目。 所有组件�
 个人在技术、科学与系统架构领域的经验
 因此，Z9D-QAI是一个完全自给自足的深度技术项目的典范，该项目在没有外部资金支持的情况下创建，但提供了广泛的技术基础——从终端人工智能到传感器融合、机器人系统和科学人工智能，再到安全和分析模块。
 
+### © Lizenz & Urheberrecht
+**© 2026 Dr.MaS Zoran Ljubic – Z9D-QAI / Matrixworld.at. Alle Rechte vorbehalten (All Rights Reserved).**  
+Details zur exklusiven Nutzung und zum Schutz des geistigen Eigentums finden sich in der Datei [`LICENSE`](https://github.com/Z9D-QAI/Matrixworld/blob/main/LICENSE).
