@@ -3354,4 +3354,4 @@ Die Kosten für die öffentliche Bereitstellung der Z9D•QAI Software, KI‑Mod
 
 ### © Lizenz & Urheberrecht
 **© 2026 Dr.MaS Zoran Ljubic – Z9D-QAI / Matrixworld.at. Alle Rechte vorbehalten (All Rights Reserved).**  
-Details zur exklusiven Nutzung und zum Schutz des geistigen Eigentums finden sich in der Datei [`LICENSE`](./LICENSE).
+Details zur exklusiven Nutzung und zum Schutz des geistigen Eigentums finden sich in der Datei [`LICENSE`](https://github.com/Z9D-QAI/Matrixworld/blob/main/LICENSE).
