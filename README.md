@@ -7,8 +7,9 @@
 # **Offizielle Web-Präsentation:** https://matrixworld.at
 
 „Offizielle Plattform-Dokumentation & Marktplatz: Matrixworld Repository | matrixworld.at“
+---
 README.md -> Deutsch: = AKTUELL !!!
-
+---
 Welcome to the Z9D•QAI - Z9D-QAI - Z9D.QAI project. - https://z9d-qai.com/
 This is an independent research initiative focused on building high‑quality scientific AI systems, including:
 
