@@ -1717,3 +1717,6 @@ Z9D-QAI — это полностью независимый научно-исс
 Личный опыт в технологиях, науке и архитектуре систем
 Z9D-QAI таким образом является примером полностью самоподдерживаемого глубокотехнологичного проекта, созданного без внешнего финансирования, но при этом предлагающего широкую техническую базу — от ИИ конечных точек до синтеза датчиков, от робототехнических систем и научного ИИ, а также модулей безопасности и анализа.
 
+### © Lizenz & Urheberrecht
+**© 2026 Dr.MaS Zoran Ljubic – Z9D-QAI / Matrixworld.at. Alle Rechte vorbehalten (All Rights Reserved).**  
+Details zur exklusiven Nutzung und zum Schutz des geistigen Eigentums finden sich in der Datei [`LICENSE`](https://github.com/Z9D-QAI/Matrixworld/blob/main/LICENSE).
